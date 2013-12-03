@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The National Budget</title>
+    <meta charset="utf-8">
+    <style type="text/css" media="all">@import url('./budget.css');</style>
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="./budget.js"></script>
+    <script>
+    $(window).bind("load", function() {
+      chart('./budget.json');
+    });
+    </script>
+  </head>
+  <body>
+    <div id="container">
+      <div id="chart"></div>
+      <div id="sidebar">
+        <h1>The National Budget</h1>
+        <p>
+          This chart shows a part of the national budget for 2014. Hover your mouse over the chart to see detailed information on the various expenditure items. Click on an item to zoom in. Click in the middle of the chart to zoom out.
+        </p>
+        <dl>
+          <dt>Name</dt>
+          <dd id="label"><span>Alle udgifter<span></dd>
+          <dt>Appropriation 2014</dt>
+          <dd id="amount2014"><span>214</span> million</dd>
+          <dt>Budget 2013</dt>
+          <dd id="amount2013"><span>214</span> million</dd>
+          <dt>Report 2012</dt>
+          <dd id="amount2012"><span>225</span> million</dd>
+        </dl>
+      </div>
+      <div id="footer">
+        <p>
+          Created by <a href="http://ratatosk.net/">Morten Wulff</a> / <a href="http://www.information.dk/">Dagbladet Information</a> with data from <a href="http://www.oes-cs.dk/olapdatabase/finanslov/index.cgi">Finansministeriets finanslovsdatabase</a>.<br />
+          Inspired by <a href="http://theopenbudget.org/">TheOpenBudget.org</a> by <a href="http://www.prosple.com.au/">Prosple</a> and <a href="http://www.ozdocsonline.com.au/">OzDocsOnline</a>.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
