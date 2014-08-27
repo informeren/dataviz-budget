@@ -16,12 +16,12 @@ path {
 }
 
 #container {
-  width: 976px;
+  width: 940px;
 }
 
 #chart {
   float: left;
-  padding: 19px;
+  padding: 10px;
   width: 540px;
   height: 540px;
 }
@@ -31,7 +31,7 @@ path {
 #sidebar {
   float: left;
   width: 360px;
-  padding: 19px;
+  padding: 10px;
   font-family: 'PT Serif', serif;
 }
 
@@ -86,7 +86,7 @@ path {
 
 #footer {
   clear: both;
-  padding: 0px 20px;
+  padding: 0px 10px;
   font-family: 'PT Sans', sans-serif;
   font-size: 11px;
   color: #ccc;
