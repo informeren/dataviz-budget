@@ -22,6 +22,8 @@ path {
 #chart {
   float: left;
   padding: 19px;
+  width: 540px;
+  height: 540px;
 }
 
 /* !Sidebar */
@@ -31,7 +33,6 @@ path {
   width: 360px;
   padding: 19px;
   font-family: 'PT Serif', serif;
-  font-size: 14px;
 }
 
 #sidebar h1 {
@@ -52,13 +53,20 @@ path {
   color: #999;
 }
 
+#sidebar form {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+}
+
 #sidebar p {
   margin-top: 0;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #sidebar p.filter {
-  color: #666;
+  color: #999;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
 }
 
 #sidebar dt {

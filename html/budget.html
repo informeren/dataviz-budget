@@ -4,40 +4,60 @@
     <title>The National Budget</title>
     <meta charset="utf-8">
     <style type="text/css" media="all">@import url('./budget.css');</style>
-    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script src="./budget.js"></script>
-    <script>
-    $(window).bind("load", function() {
-      chart('./budget.json');
-    });
-    </script>
   </head>
   <body>
     <div id="container">
       <div id="chart"></div>
       <div id="sidebar">
         <h1>The National Budget</h1>
+        <form>
+          <select id="year">
+            <option value="2003">Fiscal year 2003</option>
+            <option value="2004">Fiscal year 2004</option>
+            <option value="2005">Fiscal year 2005</option>
+            <option value="2006">Fiscal year 2006</option>
+            <option value="2007">Fiscal year 2007</option>
+            <option value="2008">Fiscal year 2008</option>
+            <option value="2009">Fiscal year 2009</option>
+            <option value="2010">Fiscal year 2010</option>
+            <option value="2011">Fiscal year 2011</option>
+            <option value="2012">Fiscal year 2012</option>
+            <option value="2013">Fiscal year 2013</option>
+            <option value="2014">Fiscal year 2014</option>
+            <option value="2015" selected>Fiscal year 2015</option>
+          </select>
+        </form>
         <p>
-          This chart shows a part of the national budget for 2014. Hover your mouse over the chart to see detailed information on the various expenditure items. Click on an item to zoom in. Click in the middle of the chart to zoom out.
+          This chart shows a part of the national budget for the selected year. Hover your mouse over the chart to see detailed information on the various expenditure items. Click on an item to zoom in. Click in the middle of the chart to zoom out.
         </p>
         <dl>
           <dt>Name</dt>
-          <dd id="label"><span>Alle udgifter<span></dd>
-          <dt>Appropriation 2014</dt>
-          <dd id="amount2014"><span>214</span> million</dd>
-          <dt>Budget 2013</dt>
-          <dd id="amount2013"><span>214</span> million</dd>
-          <dt>Report 2012</dt>
-          <dd id="amount2012"><span>225</span> million</dd>
+          <dd id="name">&nbsp;</dd>
+          <dt id="label-a">Appropriation 2014</dt>
+          <dd id="appropriation">&nbsp;</dd>
+          <dt id="label-b">Budget 2013</dt>
+          <dd id="budget">&nbsp;</dd>
+          <dt id="label-r">Report 2012</dt>
+          <dd id="report">&nbsp;</dd>
         </dl>
+        <h2>Filter</h2>
+        <p class="filter">
+          Finansår=[selected year]<br />
+          Udgifts-/indtægtsbudget=Udgiftsbudget, udgift<br />
+          Paragraf=[all but: 35, 36, 37, 38, 40, 41, 42]
+        </p>
       </div>
       <div id="footer">
         <p>
           Created by <a href="http://ratatosk.net/">Morten Wulff</a> / <a href="http://www.information.dk/">Dagbladet Information</a> with data from <a href="http://www.oes-cs.dk/olapdatabase/finanslov/index.cgi">Finansministeriets finanslovsdatabase</a>.<br />
-          Inspired by <a href="http://theopenbudget.org/">TheOpenBudget.org</a> by <a href="http://www.prosple.com.au/">Prosple</a> and <a href="http://www.ozdocsonline.com.au/">OzDocsOnline</a>.
+          Inspired by <a href="http://theopenbudget.org/">TheOpenBudget.org</a> by <a href="http://www.prosple.com.au/">Prosple</a> and <a href="http://www.ozdocsonline.com.au/">OzDocsOnline</a>.<br />
+          Code and documentation is available on <a href="https://github.com/informeren/dataviz-budget">GitHub</a>.
         </p>
       </div>
     </div>
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/colorbrewer.v1.min.js"></script>
+    <script src="./budget.js"></script>
   </body>
 </html>

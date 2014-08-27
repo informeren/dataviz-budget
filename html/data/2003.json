@@ -1,0 +1,3004 @@
+{
+   "appropriation" : 418091.6,
+   "report" : 400754.3,
+   "account" : 0,
+   "name" : "Alle udgifter",
+   "children" : [
+      {
+         "appropriation" : 15722.4,
+         "report" : 15521.9,
+         "account" : "28",
+         "name" : "Trafikministeriet",
+         "children" : [
+            {
+               "appropriation" : 9569.5,
+               "report" : 9351.4,
+               "account" : "286",
+               "name" : "Banetrafik",
+               "children" : [
+                  {
+                     "appropriation" : 275.9,
+                     "report" : 258.3,
+                     "account" : "2865",
+                     "name" : "Privatbanerne",
+                     "label" : "2865 Privatbanerne",
+                     "budget" : 265.7
+                  },
+                  {
+                     "appropriation" : 4947.1,
+                     "report" : 5342.5,
+                     "account" : "2863",
+                     "name" : "Banestyrelsen",
+                     "label" : "2863 Banestyrelsen",
+                     "budget" : 5339.4
+                  },
+                  {
+                     "appropriation" : 25,
+                     "report" : 0,
+                     "account" : "2862",
+                     "name" : "Trafikstyrelsen",
+                     "label" : "2862 Trafikstyrelsen",
+                     "budget" : 0
+                  },
+                  {
+                     "appropriation" : 4321.5,
+                     "report" : 3750.5,
+                     "account" : "2861",
+                     "name" : "Jernbanetrafik",
+                     "label" : "2861 Jernbanetrafik",
+                     "budget" : 3491.4
+                  }
+               ],
+               "label" : "286 Banetrafik",
+               "budget" : 9096.5
+            },
+            {
+               "appropriation" : 668.9,
+               "report" : 677.5,
+               "account" : "284",
+               "name" : "Kyster, havne og færgetrafik",
+               "children" : [
+                  {
+                     "appropriation" : 466.2,
+                     "report" : 474.6,
+                     "account" : "2843",
+                     "name" : "Færgetrafik",
+                     "label" : "2843 Færgetrafik",
+                     "budget" : 434
+                  },
+                  {
+                     "appropriation" : 202.7,
+                     "report" : 138.1,
+                     "account" : "2842",
+                     "name" : "Kystbeskyttelse og havne",
+                     "label" : "2842 Kystbeskyttelse og havne",
+                     "budget" : 224.9
+                  },
+                  {
+                     "appropriation" : 0,
+                     "report" : 64.8,
+                     "account" : "2841",
+                     "name" : "Havne",
+                     "label" : "2841 Havne",
+                     "budget" : 0
+                  }
+               ],
+               "label" : "284 Kyster, havne og færgetrafik",
+               "budget" : 658.9
+            },
+            {
+               "appropriation" : 1443.8,
+               "report" : 1254.3,
+               "account" : "283",
+               "name" : "Luftfart og meteorologi",
+               "children" : [
+                  {
+                     "appropriation" : 909.5,
+                     "report" : 721.5,
+                     "account" : "2833",
+                     "name" : "Flyvesikringstjenesten",
+                     "label" : "2833 Flyvesikringstjenesten",
+                     "budget" : 780
+                  },
+                  {
+                     "appropriation" : 313.8,
+                     "report" : 310.1,
+                     "account" : "2832",
+                     "name" : "Meteorologi",
+                     "label" : "2832 Meteorologi",
+                     "budget" : 344.8
+                  },
+                  {
+                     "appropriation" : 220.5,
+                     "report" : 222.7,
+                     "account" : "2831",
+                     "name" : "Statens Luftfartsvæsen",
+                     "label" : "2831 Statens Luftfartsvæsen",
+                     "budget" : 183.3
+                  }
+               ],
+               "label" : "283 Luftfart og meteorologi",
+               "budget" : 1308.1
+            },
+            {
+               "appropriation" : 2651.8,
+               "report" : 2175.1,
+               "account" : "282",
+               "name" : "Vejtrafik",
+               "children" : [
+                  {
+                     "appropriation" : 355.3,
+                     "report" : 421,
+                     "account" : "2822",
+                     "name" : "Færdsel",
+                     "label" : "2822 Færdsel",
+                     "budget" : 361.2
+                  },
+                  {
+                     "appropriation" : 2296.5,
+                     "report" : 1754.1,
+                     "account" : "2821",
+                     "name" : "Veje",
+                     "label" : "2821 Veje",
+                     "budget" : 2064.7
+                  }
+               ],
+               "label" : "282 Vejtrafik",
+               "budget" : 2425.9
+            },
+            {
+               "appropriation" : 1388.4,
+               "report" : 2063.7,
+               "account" : "281",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 31.9,
+                     "report" : 22.3,
+                     "account" : "2812",
+                     "name" : "Tilsyn og kommissioner",
+                     "label" : "2812 Tilsyn og kommissioner",
+                     "budget" : 30.1
+                  },
+                  {
+                     "appropriation" : 1356.5,
+                     "report" : 2041.4,
+                     "account" : "2811",
+                     "name" : "Centralstyrelsen",
+                     "label" : "2811 Centralstyrelsen",
+                     "budget" : 1279.4
+                  }
+               ],
+               "label" : "281 Fællesudgifter",
+               "budget" : 1309.5
+            }
+         ],
+         "label" : "28 Trafikministeriet",
+         "budget" : 14798.9
+      },
+      {
+         "appropriation" : 14660.3,
+         "report" : 14144.5,
+         "account" : "24",
+         "name" : "Fødevareministeriet",
+         "children" : [
+            {
+               "appropriation" : 8938,
+               "report" : 8743.9,
+               "account" : "244",
+               "name" : "Markedsordninger",
+               "children" : [
+                  {
+                     "appropriation" : 8938,
+                     "report" : 8743.9,
+                     "account" : "2442",
+                     "name" : "EUs markedsordninger",
+                     "label" : "2442 EUs markedsordninger",
+                     "budget" : 8472.2
+                  }
+               ],
+               "label" : "244 Markedsordninger",
+               "budget" : 8472.2
+            },
+            {
+               "appropriation" : 2905.8,
+               "report" : 3060.7,
+               "account" : "243",
+               "name" : "Kontrol, sygdomsbekæmpelse og forskning",
+               "children" : [
+                  {
+                     "appropriation" : 220.5,
+                     "report" : 234.1,
+                     "account" : "2438",
+                     "name" : "Fiskeriforskning",
+                     "label" : "2438 Fiskeriforskning",
+                     "budget" : 218.4
+                  },
+                  {
+                     "appropriation" : 175.7,
+                     "report" : 156.8,
+                     "account" : "2437",
+                     "name" : "Fiskeriforhold",
+                     "label" : "2437 Fiskeriforhold",
+                     "budget" : 188.6
+                  },
+                  {
+                     "appropriation" : 718.7,
+                     "report" : 869,
+                     "account" : "2433",
+                     "name" : "Forskning, fødevare- og jordbrugsområderne",
+                     "label" : "2433 Forskning, fødevare- og jordbrugsområderne",
+                     "budget" : 712.3
+                  },
+                  {
+                     "appropriation" : 1548.1,
+                     "report" : 1563.8,
+                     "account" : "2432",
+                     "name" : "Husdyrforhold og levnedsmidler",
+                     "label" : "2432 Husdyrforhold og levnedsmidler",
+                     "budget" : 1577.1
+                  },
+                  {
+                     "appropriation" : 242.8,
+                     "report" : 237,
+                     "account" : "2431",
+                     "name" : "Planteforhold",
+                     "label" : "2431 Planteforhold",
+                     "budget" : 247.1
+                  }
+               ],
+               "label" : "243 Kontrol, sygdomsbekæmpelse og forskning",
+               "budget" : 2943.5
+            },
+            {
+               "appropriation" : 2607.7,
+               "report" : 2155.3,
+               "account" : "242",
+               "name" : "Generelle jordbrugs- og fiskeriforhold",
+               "children" : [
+                  {
+                     "appropriation" : 278.3,
+                     "report" : 151,
+                     "account" : "2426",
+                     "name" : "Erhvervsfremme inden for fiskerisektoren",
+                     "label" : "2426 Erhvervsfremme inden for fiskerisektoren",
+                     "budget" : 297.9
+                  },
+                  {
+                     "appropriation" : 718.7,
+                     "report" : 766.2,
+                     "account" : "2424",
+                     "name" : "Driftsstøtte i jordbruget",
+                     "label" : "2424 Driftsstøtte i jordbruget",
+                     "budget" : 758
+                  },
+                  {
+                     "appropriation" : 1037.2,
+                     "report" : 623.4,
+                     "account" : "2423",
+                     "name" : "Strukt./effektiv.forbedr., jordbrug/fiskeri",
+                     "label" : "2423 Strukt./effektiv.forbedr., jordbrug/fiskeri",
+                     "budget" : 1047.5
+                  },
+                  {
+                     "appropriation" : 125.8,
+                     "report" : 150.9,
+                     "account" : "2422",
+                     "name" : "Konsulent- og vikarordninger i jordbruget",
+                     "label" : "2422 Konsulent- og vikarordninger i jordbruget",
+                     "budget" : 132.1
+                  },
+                  {
+                     "appropriation" : 447.7,
+                     "report" : 463.8,
+                     "account" : "2421",
+                     "name" : "Fællesudg., jordbrugs- og fiskeriområdet",
+                     "label" : "2421 Fællesudg., jordbrugs- og fiskeriområdet",
+                     "budget" : 446.3
+                  }
+               ],
+               "label" : "242 Generelle jordbrugs- og fiskeriforhold",
+               "budget" : 2681.8
+            },
+            {
+               "appropriation" : 208.8,
+               "report" : 184.6,
+               "account" : "241",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 208.8,
+                     "report" : 184.6,
+                     "account" : "2411",
+                     "name" : "Centralstyrelsen",
+                     "label" : "2411 Centralstyrelsen",
+                     "budget" : 188
+                  }
+               ],
+               "label" : "241 Fællesudgifter",
+               "budget" : 188
+            }
+         ],
+         "label" : "24 Fødevareministeriet",
+         "budget" : 14285.5
+      },
+      {
+         "appropriation" : 3193.4,
+         "report" : 4014.3,
+         "account" : "23",
+         "name" : "Miljøministeriet",
+         "children" : [
+            {
+               "appropriation" : 274.3,
+               "report" : 295.5,
+               "account" : "239",
+               "name" : "Kortproduktion",
+               "children" : [
+                  {
+                     "appropriation" : 274.3,
+                     "report" : 295.5,
+                     "account" : "2391",
+                     "name" : "Kortproduktion",
+                     "label" : "2391 Kortproduktion",
+                     "budget" : 268.3
+                  }
+               ],
+               "label" : "239 Kortproduktion",
+               "budget" : 268.3
+            },
+            {
+               "appropriation" : 231.2,
+               "report" : 223.5,
+               "account" : "236",
+               "name" : "Geologisk forskning og undersøgelser",
+               "children" : [
+                  {
+                     "appropriation" : 231.2,
+                     "report" : 223.5,
+                     "account" : "2361",
+                     "name" : "Geologisk forskning og undersøgelser",
+                     "label" : "2361 Geologisk forskning og undersøgelser",
+                     "budget" : 220.6
+                  }
+               ],
+               "label" : "236 Geologisk forskning og undersøgelser",
+               "budget" : 220.6
+            },
+            {
+               "appropriation" : 1115.4,
+               "report" : 1502.2,
+               "account" : "235",
+               "name" : "Skov- og Naturforvaltning m.v.",
+               "children" : [
+                  {
+                     "appropriation" : 129.5,
+                     "report" : 442.4,
+                     "account" : "2355",
+                     "name" : "Privat skovbrug m.v.",
+                     "label" : "2355 Privat skovbrug m.v.",
+                     "budget" : 367.4
+                  },
+                  {
+                     "appropriation" : 155.4,
+                     "report" : 164.2,
+                     "account" : "2352",
+                     "name" : "Naturforvaltning m.v.",
+                     "label" : "2352 Naturforvaltning m.v.",
+                     "budget" : 98.5
+                  },
+                  {
+                     "appropriation" : 830.5,
+                     "report" : 895.6,
+                     "account" : "2351",
+                     "name" : "Fællesudgifter",
+                     "label" : "2351 Fællesudgifter",
+                     "budget" : 868.3
+                  }
+               ],
+               "label" : "235 Skov- og Naturforvaltning m.v.",
+               "budget" : 1334.2
+            },
+            {
+               "appropriation" : 76.2,
+               "report" : 96.4,
+               "account" : "234",
+               "name" : "Skov-, landskabs- og planlægningsforskning",
+               "children" : [
+                  {
+                     "appropriation" : 76.2,
+                     "report" : 96.4,
+                     "account" : "2341",
+                     "name" : "Skov-, landskabs- og planlægningsforskning",
+                     "label" : "2341 Skov-, landskabs- og planlægningsforskning",
+                     "budget" : 78.6
+                  }
+               ],
+               "label" : "234 Skov-, landskabs- og planlægningsforskning",
+               "budget" : 78.6
+            },
+            {
+               "appropriation" : 235.9,
+               "report" : 252.4,
+               "account" : "233",
+               "name" : "Miljøundersøgelser",
+               "children" : [
+                  {
+                     "appropriation" : 235.9,
+                     "report" : 252.4,
+                     "account" : "2331",
+                     "name" : "Miljøundersøgelser",
+                     "label" : "2331 Miljøundersøgelser",
+                     "budget" : 241.8
+                  }
+               ],
+               "label" : "233 Miljøundersøgelser",
+               "budget" : 241.8
+            },
+            {
+               "appropriation" : 1080.9,
+               "report" : 1479.1,
+               "account" : "232",
+               "name" : "Miljøbeskyttelse",
+               "children" : [
+                  {
+                     "appropriation" : 0,
+                     "report" : 24.5,
+                     "account" : "2328",
+                     "name" : "Vandforsyning",
+                     "label" : "2328 Vandforsyning",
+                     "budget" : 0
+                  },
+                  {
+                     "appropriation" : 0,
+                     "report" : 54.6,
+                     "account" : "2327",
+                     "name" : "Øvrige miljøforanstaltninger",
+                     "label" : "2327 Øvrige miljøforanstaltninger",
+                     "budget" : 0
+                  },
+                  {
+                     "appropriation" : 389.4,
+                     "report" : 695.6,
+                     "account" : "2326",
+                     "name" : "International miljøstøtte",
+                     "label" : "2326 International miljøstøtte",
+                     "budget" : 91.8
+                  },
+                  {
+                     "appropriation" : 18.4,
+                     "report" : 21.5,
+                     "account" : "2324",
+                     "name" : "Miljøforanstaltninger i landbruget",
+                     "label" : "2324 Miljøforanstaltninger i landbruget",
+                     "budget" : 19.7
+                  },
+                  {
+                     "appropriation" : 333,
+                     "report" : 290.3,
+                     "account" : "2323",
+                     "name" : "Renere produkter m.v.",
+                     "label" : "2323 Renere produkter m.v.",
+                     "budget" : 379.4
+                  },
+                  {
+                     "appropriation" : 27.1,
+                     "report" : 37.5,
+                     "account" : "2322",
+                     "name" : "Jordforurening",
+                     "label" : "2322 Jordforurening",
+                     "budget" : 42.8
+                  },
+                  {
+                     "appropriation" : 313,
+                     "report" : 355,
+                     "account" : "2321",
+                     "name" : "Fællesudgifter",
+                     "label" : "2321 Fællesudgifter",
+                     "budget" : 300.6
+                  }
+               ],
+               "label" : "232 Miljøbeskyttelse",
+               "budget" : 834.3
+            },
+            {
+               "appropriation" : 179.5,
+               "report" : 165.3,
+               "account" : "231",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 179.5,
+                     "report" : 165.3,
+                     "account" : "2311",
+                     "name" : "Centralstyrelsen",
+                     "label" : "2311 Centralstyrelsen",
+                     "budget" : 193.8
+                  }
+               ],
+               "label" : "231 Fællesudgifter",
+               "budget" : 193.8
+            }
+         ],
+         "label" : "23 Miljøministeriet",
+         "budget" : 3171.6
+      },
+      {
+         "appropriation" : 869.6,
+         "report" : 830.4,
+         "account" : "22",
+         "name" : "Kirkeministeriet",
+         "children" : [
+            {
+               "appropriation" : 16.5,
+               "report" : 16.6,
+               "account" : "223",
+               "name" : "Kirker og kirkegårde",
+               "children" : [
+                  {
+                     "appropriation" : 16.5,
+                     "report" : 16.6,
+                     "account" : "2231",
+                     "name" : "Kirker og kirkegårde",
+                     "label" : "2231 Kirker og kirkegårde",
+                     "budget" : 18.2
+                  }
+               ],
+               "label" : "223 Kirker og kirkegårde",
+               "budget" : 18.2
+            },
+            {
+               "appropriation" : 809.4,
+               "report" : 770.6,
+               "account" : "222",
+               "name" : "Folkekirken",
+               "children" : [
+                  {
+                     "appropriation" : 809.4,
+                     "report" : 770.6,
+                     "account" : "2221",
+                     "name" : "Folkekirken",
+                     "label" : "2221 Folkekirken",
+                     "budget" : 831.2
+                  }
+               ],
+               "label" : "222 Folkekirken",
+               "budget" : 831.2
+            },
+            {
+               "appropriation" : 43.7,
+               "report" : 43.1,
+               "account" : "221",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 43.7,
+                     "report" : 43.1,
+                     "account" : "2211",
+                     "name" : "Centralstyrelsen m.v.",
+                     "label" : "2211 Centralstyrelsen m.v.",
+                     "budget" : 42
+                  }
+               ],
+               "label" : "221 Fællesudgifter",
+               "budget" : 42
+            }
+         ],
+         "label" : "22 Kirkeministeriet",
+         "budget" : 891.4
+      },
+      {
+         "appropriation" : 5078.8,
+         "report" : 4589.9,
+         "account" : "21",
+         "name" : "Kulturministeriet",
+         "children" : [
+            {
+               "appropriation" : 684.5,
+               "report" : 57.3,
+               "account" : "218",
+               "name" : "Radio og tv",
+               "children" : [
+                  {
+                     "appropriation" : 684.5,
+                     "report" : 57.3,
+                     "account" : "2181",
+                     "name" : "Radio og tv",
+                     "label" : "2181 Radio og tv",
+                     "budget" : 50.4
+                  }
+               ],
+               "label" : "218 Radio og tv",
+               "budget" : 50.4
+            },
+            {
+               "appropriation" : 843.3,
+               "report" : 829.7,
+               "account" : "214",
+               "name" : "Videregående uddannelse",
+               "children" : [
+                  {
+                     "appropriation" : 42.8,
+                     "report" : 50.9,
+                     "account" : "2142",
+                     "name" : "Andre uddannelsesaktiviteter",
+                     "label" : "2142 Andre uddannelsesaktiviteter",
+                     "budget" : 57.8
+                  },
+                  {
+                     "appropriation" : 800.5,
+                     "report" : 778.8,
+                     "account" : "2141",
+                     "name" : "Uddannelsesinstitutioner m.v.",
+                     "label" : "2141 Uddannelsesinstitutioner m.v.",
+                     "budget" : 751.4
+                  }
+               ],
+               "label" : "214 Videregående uddannelse",
+               "budget" : 809.2
+            },
+            {
+               "appropriation" : 1558,
+               "report" : 1665.3,
+               "account" : "213",
+               "name" : "Bevaring og formidling af kulturarven",
+               "children" : [
+                  {
+                     "appropriation" : 735.5,
+                     "report" : 731.8,
+                     "account" : "2133",
+                     "name" : "Museer, fortidsminder, fredede bygninger m.v.",
+                     "label" : "2133 Museer, fortidsminder, fredede bygninger m.v.",
+                     "budget" : 722.3
+                  },
+                  {
+                     "appropriation" : 158.4,
+                     "report" : 158.1,
+                     "account" : "2132",
+                     "name" : "Arkiver m.v.",
+                     "label" : "2132 Arkiver m.v.",
+                     "budget" : 155.7
+                  },
+                  {
+                     "appropriation" : 664.1,
+                     "report" : 775.5,
+                     "account" : "2131",
+                     "name" : "Biblioteker",
+                     "label" : "2131 Biblioteker",
+                     "budget" : 653.2
+                  }
+               ],
+               "label" : "213 Bevaring og formidling af kulturarven",
+               "budget" : 1531.2
+            },
+            {
+               "appropriation" : 1791,
+               "report" : 1772.8,
+               "account" : "212",
+               "name" : "Skabende og udøvende virksomhed",
+               "children" : [
+                  {
+                     "appropriation" : 370.5,
+                     "report" : 375.1,
+                     "account" : "2124",
+                     "name" : "Film",
+                     "label" : "2124 Film",
+                     "budget" : 393.6
+                  },
+                  {
+                     "appropriation" : 684.7,
+                     "report" : 780.9,
+                     "account" : "2123",
+                     "name" : "Teater",
+                     "label" : "2123 Teater",
+                     "budget" : 739.5
+                  },
+                  {
+                     "appropriation" : 198.9,
+                     "report" : 292,
+                     "account" : "2122",
+                     "name" : "Musik",
+                     "label" : "2122 Musik",
+                     "budget" : 265.6
+                  },
+                  {
+                     "appropriation" : 536.9,
+                     "report" : 324.8,
+                     "account" : "2121",
+                     "name" : "Støtte til kunstnere, forfattere m.v.",
+                     "label" : "2121 Støtte til kunstnere, forfattere m.v.",
+                     "budget" : 305.9
+                  }
+               ],
+               "label" : "212 Skabende og udøvende virksomhed",
+               "budget" : 1704.6
+            },
+            {
+               "appropriation" : 202,
+               "report" : 264.8,
+               "account" : "211",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 202,
+                     "report" : 264.8,
+                     "account" : "2111",
+                     "name" : "Centralstyrelsen",
+                     "label" : "2111 Centralstyrelsen",
+                     "budget" : 272.4
+                  }
+               ],
+               "label" : "211 Fællesudgifter",
+               "budget" : 272.4
+            }
+         ],
+         "label" : "21 Kulturministeriet",
+         "budget" : 4367.8
+      },
+      {
+         "appropriation" : 39341.7,
+         "report" : 37373.5,
+         "account" : "20",
+         "name" : "Undervisningsministeriet",
+         "children" : [
+            {
+               "appropriation" : 16193.3,
+               "report" : 14365.5,
+               "account" : "209",
+               "name" : "Støtteordninger m.v.",
+               "children" : [
+                  {
+                     "appropriation" : 144.4,
+                     "report" : 107.3,
+                     "account" : "2098",
+                     "name" : "Forskellige støtteordninger",
+                     "label" : "2098 Forskellige støtteordninger",
+                     "budget" : 126
+                  },
+                  {
+                     "appropriation" : 1698.4,
+                     "report" : 1298.3,
+                     "account" : "2093",
+                     "name" : "Støtteordninger for voksne",
+                     "label" : "2093 Støtteordninger for voksne",
+                     "budget" : 1714.4
+                  },
+                  {
+                     "appropriation" : 145.5,
+                     "report" : 151.1,
+                     "account" : "2092",
+                     "name" : "Støtte til befordring",
+                     "label" : "2092 Støtte til befordring",
+                     "budget" : 145.6
+                  },
+                  {
+                     "appropriation" : 14205,
+                     "report" : 12808.9,
+                     "account" : "2091",
+                     "name" : "Statens uddannelsesstøtte",
+                     "label" : "2091 Statens uddannelsesstøtte",
+                     "budget" : 13524.8
+                  }
+               ],
+               "label" : "209 Støtteordninger m.v.",
+               "budget" : 15510.8
+            },
+            {
+               "appropriation" : 1237.3,
+               "report" : 956.2,
+               "account" : "208",
+               "name" : "Tværgående og internationale aktiviteter",
+               "children" : [
+                  {
+                     "appropriation" : 90.4,
+                     "report" : 56.1,
+                     "account" : "2089",
+                     "name" : "Forsøg og udvikling, internationale aktivitet",
+                     "label" : "2089 Forsøg og udvikling, internationale aktivitet",
+                     "budget" : 77.4
+                  },
+                  {
+                     "appropriation" : 270.9,
+                     "report" : 31,
+                     "account" : "2086",
+                     "name" : "Tværgående byggebevillinger",
+                     "label" : "2086 Tværgående byggebevillinger",
+                     "budget" : 15.2
+                  },
+                  {
+                     "appropriation" : 4.1,
+                     "report" : 11.7,
+                     "account" : "2085",
+                     "name" : "Ejendomsadministration",
+                     "label" : "2085 Ejendomsadministration",
+                     "budget" : 1.8
+                  },
+                  {
+                     "appropriation" : 486.6,
+                     "report" : 490.5,
+                     "account" : "2084",
+                     "name" : "International virksomhed",
+                     "label" : "2084 International virksomhed",
+                     "budget" : 472.3
+                  },
+                  {
+                     "appropriation" : 348.1,
+                     "report" : 332.8,
+                     "account" : "2082",
+                     "name" : "Informations- og kommunikationsteknologi",
+                     "label" : "2082 Informations- og kommunikationsteknologi",
+                     "budget" : 233.7
+                  },
+                  {
+                     "appropriation" : 45.4,
+                     "report" : 34.1,
+                     "account" : "2081",
+                     "name" : "Evaluering m.v.",
+                     "label" : "2081 Evaluering m.v.",
+                     "budget" : 45.1
+                  }
+               ],
+               "label" : "208 Tværgående og internationale aktiviteter",
+               "budget" : 845.5
+            },
+            {
+               "appropriation" : 2537.7,
+               "report" : 3368.1,
+               "account" : "207",
+               "name" : "Folkeoplysning samt voksen-, efter- og vid.",
+               "children" : [
+                  {
+                     "appropriation" : 100.8,
+                     "report" : 243.4,
+                     "account" : "2079",
+                     "name" : "Forsøgs- og udviklingsarbejde, folkeoplysning",
+                     "label" : "2079 Forsøgs- og udviklingsarbejde, folkeoplysning",
+                     "budget" : 151.7
+                  },
+                  {
+                     "appropriation" : 35.6,
+                     "report" : 77,
+                     "account" : "2076",
+                     "name" : "Andre efter- og videreuddannelser",
+                     "label" : "2076 Andre efter- og videreuddannelser",
+                     "budget" : 83.1
+                  },
+                  {
+                     "appropriation" : 436,
+                     "report" : 466.9,
+                     "account" : "2075",
+                     "name" : "Åben uddannelse",
+                     "label" : "2075 Åben uddannelse",
+                     "budget" : 493.2
+                  },
+                  {
+                     "appropriation" : 52.2,
+                     "report" : 29,
+                     "account" : "2074",
+                     "name" : "Almen voksenuddannelse",
+                     "label" : "2074 Almen voksenuddannelse",
+                     "budget" : 51.6
+                  },
+                  {
+                     "appropriation" : 1178.7,
+                     "report" : 1489.7,
+                     "account" : "2072",
+                     "name" : "Arbejdsmarkedsuddannelser m.v.",
+                     "label" : "2072 Arbejdsmarkedsuddannelser m.v.",
+                     "budget" : 1458.1
+                  },
+                  {
+                     "appropriation" : 734.4,
+                     "report" : 1062.2,
+                     "account" : "2071",
+                     "name" : "Folkeoplysning",
+                     "label" : "2071 Folkeoplysning",
+                     "budget" : 1082.9
+                  }
+               ],
+               "label" : "207 Folkeoplysning samt voksen-, efter- og vid.",
+               "budget" : 3320.6
+            },
+            {
+               "appropriation" : 4071.2,
+               "report" : 4767,
+               "account" : "206",
+               "name" : "Videregående uddannelser",
+               "children" : [
+                  {
+                     "appropriation" : 268.3,
+                     "report" : 229.2,
+                     "account" : "2069",
+                     "name" : "Forsøg og udvikling m.v.",
+                     "label" : "2069 Forsøg og udvikling m.v.",
+                     "budget" : 203
+                  },
+                  {
+                     "appropriation" : 75,
+                     "report" : 846.8,
+                     "account" : "2062",
+                     "name" : "Institutioner med mellemlange videreg. udd.",
+                     "label" : "2062 Institutioner med mellemlange videreg. udd.",
+                     "budget" : 141.6
+                  },
+                  {
+                     "appropriation" : 3727.9,
+                     "report" : 3691,
+                     "account" : "2061",
+                     "name" : "Tilskud til videregående uddannelser m.v.",
+                     "label" : "2061 Tilskud til videregående uddannelser m.v.",
+                     "budget" : 3940.6
+                  }
+               ],
+               "label" : "206 Videregående uddannelser",
+               "budget" : 4285.2
+            },
+            {
+               "appropriation" : 768.4,
+               "report" : 808.6,
+               "account" : "205",
+               "name" : "Andre ungdomsuddannelser m.v.",
+               "children" : [
+                  {
+                     "appropriation" : 3.2,
+                     "report" : 3.3,
+                     "account" : "2059",
+                     "name" : "Forsøg og udvikling m.v.",
+                     "label" : "2059 Forsøg og udvikling m.v.",
+                     "budget" : 4.5
+                  },
+                  {
+                     "appropriation" : 765.2,
+                     "report" : 805.2,
+                     "account" : "2051",
+                     "name" : "Andre ungdomsuddannelser",
+                     "label" : "2051 Andre ungdomsuddannelser",
+                     "budget" : 818.1
+                  }
+               ],
+               "label" : "205 Andre ungdomsuddannelser m.v.",
+               "budget" : 822.6
+            },
+            {
+               "appropriation" : 2436.4,
+               "report" : 2239.4,
+               "account" : "204",
+               "name" : "Gymnasiale uddannelser",
+               "children" : [
+                  {
+                     "appropriation" : 23.1,
+                     "report" : 30.3,
+                     "account" : "2049",
+                     "name" : "Forsøgsvirks. og udviklingsarb. i forb. gym.",
+                     "label" : "2049 Forsøgsvirks. og udviklingsarb. i forb. gym.",
+                     "budget" : 28.1
+                  },
+                  {
+                     "appropriation" : 285,
+                     "report" : 242.6,
+                     "account" : "2043",
+                     "name" : "Privat gymnasie- og hf-uddannelse m.v.",
+                     "label" : "2043 Privat gymnasie- og hf-uddannelse m.v.",
+                     "budget" : 258.4
+                  },
+                  {
+                     "appropriation" : 195.4,
+                     "report" : 164.4,
+                     "account" : "2042",
+                     "name" : "Offentlig gymnasie- og hf-uddannelse",
+                     "label" : "2042 Offentlig gymnasie- og hf-uddannelse",
+                     "budget" : 175.2
+                  },
+                  {
+                     "appropriation" : 1932.9,
+                     "report" : 1802.2,
+                     "account" : "2041",
+                     "name" : "Erhvervsgymnasiale uddannelser",
+                     "label" : "2041 Erhvervsgymnasiale uddannelser",
+                     "budget" : 1945.1
+                  }
+               ],
+               "label" : "204 Gymnasiale uddannelser",
+               "budget" : 2406.8
+            },
+            {
+               "appropriation" : 5320.5,
+               "report" : 5234.6,
+               "account" : "203",
+               "name" : "Erhvervsrettede ungdomsuddannelser",
+               "children" : [
+                  {
+                     "appropriation" : 181.3,
+                     "report" : 224,
+                     "account" : "2039",
+                     "name" : "Forsøg og udvikling m.v., ungdomsuddannelser",
+                     "label" : "2039 Forsøg og udvikling m.v., ungdomsuddannelser",
+                     "budget" : 175.1
+                  },
+                  {
+                     "appropriation" : 1831.7,
+                     "report" : 1885.5,
+                     "account" : "2038",
+                     "name" : "Fællesudgifter m.v.",
+                     "label" : "2038 Fællesudgifter m.v.",
+                     "budget" : 1892.8
+                  },
+                  {
+                     "appropriation" : 8.2,
+                     "report" : 0.5,
+                     "account" : "2034",
+                     "name" : "Adgangsgivende kurser m.v.",
+                     "label" : "2034 Adgangsgivende kurser m.v.",
+                     "budget" : 0.8
+                  },
+                  {
+                     "appropriation" : 66,
+                     "report" : 66.8,
+                     "account" : "2033",
+                     "name" : "Landbrugets grunduddannelser",
+                     "label" : "2033 Landbrugets grunduddannelser",
+                     "budget" : 61
+                  },
+                  {
+                     "appropriation" : 8,
+                     "report" : 9.3,
+                     "account" : "2032",
+                     "name" : "Social- og sundhedsuddannelser",
+                     "label" : "2032 Social- og sundhedsuddannelser",
+                     "budget" : 9.7
+                  },
+                  {
+                     "appropriation" : 3225.3,
+                     "report" : 3048.6,
+                     "account" : "2031",
+                     "name" : "Erhvervsuddannelser",
+                     "label" : "2031 Erhvervsuddannelser",
+                     "budget" : 3303.9
+                  }
+               ],
+               "label" : "203 Erhvervsrettede ungdomsuddannelser",
+               "budget" : 5443.3
+            },
+            {
+               "appropriation" : 5649.9,
+               "report" : 5018,
+               "account" : "202",
+               "name" : "Grundskolen",
+               "children" : [
+                  {
+                     "appropriation" : 185.1,
+                     "report" : 132.4,
+                     "account" : "2029",
+                     "name" : "Forsøg og udvikling m.v. grundskolen",
+                     "label" : "2029 Forsøg og udvikling m.v. grundskolen",
+                     "budget" : 158.7
+                  },
+                  {
+                     "appropriation" : 5432.9,
+                     "report" : 4853.1,
+                     "account" : "2022",
+                     "name" : "Frie grundskoler, efterskoler og ungdomskost",
+                     "label" : "2022 Frie grundskoler, efterskoler og ungdomskost",
+                     "budget" : 5096.9
+                  },
+                  {
+                     "appropriation" : 31.9,
+                     "report" : 32.5,
+                     "account" : "2021",
+                     "name" : "Folkeskolen m.v.",
+                     "label" : "2021 Folkeskolen m.v.",
+                     "budget" : 30.2
+                  }
+               ],
+               "label" : "202 Grundskolen",
+               "budget" : 5285.8
+            },
+            {
+               "appropriation" : 1127,
+               "report" : 616,
+               "account" : "201",
+               "name" : "Administration m.m.",
+               "children" : [
+                  {
+                     "appropriation" : 1127,
+                     "report" : 616,
+                     "account" : "2011",
+                     "name" : "Centralstyrelsen",
+                     "label" : "2011 Centralstyrelsen",
+                     "budget" : 363.2
+                  }
+               ],
+               "label" : "201 Administration m.m.",
+               "budget" : 363.2
+            }
+         ],
+         "label" : "20 Undervisningsministeriet",
+         "budget" : 38283.8
+      },
+      {
+         "appropriation" : 17904,
+         "report" : 22218.1,
+         "account" : "19",
+         "name" : "Videnskabsministeriet",
+         "children" : [
+            {
+               "appropriation" : 609.7,
+               "report" : 658.2,
+               "account" : "197",
+               "name" : "Kompetence og teknologi",
+               "children" : [
+                  {
+                     "appropriation" : 609.7,
+                     "report" : 658.2,
+                     "account" : "1974",
+                     "name" : "Udvikling af kompetence og teknologi m.v.",
+                     "label" : "1974 Udvikling af kompetence og teknologi m.v.",
+                     "budget" : 603.8
+                  }
+               ],
+               "label" : "197 Kompetence og teknologi",
+               "budget" : 603.8
+            },
+            {
+               "appropriation" : 80,
+               "report" : 227.8,
+               "account" : "196",
+               "name" : "IT-, Tele- og Oplysningsområdet",
+               "children" : [
+                  {
+                     "appropriation" : 9.1,
+                     "report" : 7.2,
+                     "account" : "1967",
+                     "name" : "Oplysning",
+                     "label" : "1967 Oplysning",
+                     "budget" : 7
+                  },
+                  {
+                     "appropriation" : 47.2,
+                     "report" : 195.7,
+                     "account" : "1965",
+                     "name" : "IT-området",
+                     "label" : "1965 IT-området",
+                     "budget" : 46.9
+                  },
+                  {
+                     "appropriation" : 16.5,
+                     "report" : 19.2,
+                     "account" : "1963",
+                     "name" : "Udlån og kapitalindtægter",
+                     "label" : "1963 Udlån og kapitalindtægter",
+                     "budget" : 17.9
+                  },
+                  {
+                     "appropriation" : 7.2,
+                     "report" : 5.8,
+                     "account" : "1961",
+                     "name" : "Teleområdet",
+                     "label" : "1961 Teleområdet",
+                     "budget" : 7.2
+                  }
+               ],
+               "label" : "196 IT-, Tele- og Oplysningsområdet",
+               "budget" : 79
+            },
+            {
+               "appropriation" : 752.2,
+               "report" : 721.1,
+               "account" : "195",
+               "name" : "Forskningsinstitutioner",
+               "children" : [
+                  {
+                     "appropriation" : 124,
+                     "report" : 159.1,
+                     "account" : "1955",
+                     "name" : "Særlige Forskningsinstitutioner",
+                     "label" : "1955 Særlige Forskningsinstitutioner",
+                     "budget" : 132.4
+                  },
+                  {
+                     "appropriation" : 628.2,
+                     "report" : 562,
+                     "account" : "1951",
+                     "name" : "Forskningscenter Risø",
+                     "label" : "1951 Forskningscenter Risø",
+                     "budget" : 559
+                  }
+               ],
+               "label" : "195 Forskningsinstitutioner",
+               "budget" : 691.4
+            },
+            {
+               "appropriation" : 1090.7,
+               "report" : 786.8,
+               "account" : "194",
+               "name" : "Statens Forskningsråd",
+               "children" : [
+                  {
+                     "appropriation" : 38.5,
+                     "report" : 115.1,
+                     "account" : "1942",
+                     "name" : "Forskeruddannelsesrådet",
+                     "label" : "1942 Forskeruddannelsesrådet",
+                     "budget" : 123.9
+                  },
+                  {
+                     "appropriation" : 1052.2,
+                     "report" : 671.7,
+                     "account" : "1941",
+                     "name" : "Forskningsforum og statens forskningsråd",
+                     "label" : "1941 Forskningsforum og statens forskningsråd",
+                     "budget" : 705.5
+                  }
+               ],
+               "label" : "194 Statens Forskningsråd",
+               "budget" : 829.4
+            },
+            {
+               "appropriation" : 12409.6,
+               "report" : 17065.2,
+               "account" : "192",
+               "name" : "Forskning og universitetsuddannelser",
+               "children" : [
+                  {
+                     "appropriation" : 8.2,
+                     "report" : 8.5,
+                     "account" : "1926",
+                     "name" : "Særlige institutioner",
+                     "label" : "1926 Særlige institutioner",
+                     "budget" : 7.7
+                  },
+                  {
+                     "appropriation" : 1389.6,
+                     "report" : 360.1,
+                     "account" : "1925",
+                     "name" : "Særlige tilskud",
+                     "label" : "1925 Særlige tilskud",
+                     "budget" : 1043.1
+                  },
+                  {
+                     "appropriation" : 1304,
+                     "report" : 4632.1,
+                     "account" : "1924",
+                     "name" : "Øvrige universitetslovinstitutioner",
+                     "label" : "1924 Øvrige universitetslovinstitutioner",
+                     "budget" : 1238.1
+                  },
+                  {
+                     "appropriation" : 1038.3,
+                     "report" : 899.9,
+                     "account" : "1923",
+                     "name" : "Handelshøjskoler",
+                     "label" : "1923 Handelshøjskoler",
+                     "budget" : 881.6
+                  },
+                  {
+                     "appropriation" : 8651,
+                     "report" : 8285.2,
+                     "account" : "1922",
+                     "name" : "Universiteter",
+                     "label" : "1922 Universiteter",
+                     "budget" : 7873.7
+                  },
+                  {
+                     "appropriation" : 18.5,
+                     "report" : 2879.3,
+                     "account" : "1921",
+                     "name" : "Fællesbevillinger",
+                     "label" : "1921 Fællesbevillinger",
+                     "budget" : 4224.3
+                  }
+               ],
+               "label" : "192 Forskning og universitetsuddannelser",
+               "budget" : 15268.5
+            },
+            {
+               "appropriation" : 2961.8,
+               "report" : 2759,
+               "account" : "191",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 85.3,
+                     "report" : 100.1,
+                     "account" : "1917",
+                     "name" : "Nye forskningsprogrammer",
+                     "label" : "1917 Nye forskningsprogrammer",
+                     "budget" : 118.4
+                  },
+                  {
+                     "appropriation" : 214.3,
+                     "report" : 202.9,
+                     "account" : "1915",
+                     "name" : "Internationalt forskningssamarbejde",
+                     "label" : "1915 Internationalt forskningssamarbejde",
+                     "budget" : 481
+                  },
+                  {
+                     "appropriation" : 2662.2,
+                     "report" : 2455.9,
+                     "account" : "1911",
+                     "name" : "Centralstyrelsen",
+                     "label" : "1911 Centralstyrelsen",
+                     "budget" : 3046.5
+                  }
+               ],
+               "label" : "191 Fællesudgifter",
+               "budget" : 3645.9
+            }
+         ],
+         "label" : "19 Videnskabsministeriet",
+         "budget" : 21118
+      },
+      {
+         "appropriation" : 5341,
+         "report" : 4771.5,
+         "account" : "18",
+         "name" : "Integrationsministeriet",
+         "children" : [
+            {
+               "appropriation" : 3905.2,
+               "report" : 3021.9,
+               "account" : "183",
+               "name" : "Integration",
+               "children" : [
+                  {
+                     "appropriation" : 142.2,
+                     "report" : 77.3,
+                     "account" : "1834",
+                     "name" : "Øvrige integrationsinitiativer m.v.",
+                     "label" : "1834 Øvrige integrationsinitiativer m.v.",
+                     "budget" : 74.7
+                  },
+                  {
+                     "appropriation" : 68.1,
+                     "report" : 130.3,
+                     "account" : "1833",
+                     "name" : "Indsats vedr. boligområder m.v.",
+                     "label" : "1833 Indsats vedr. boligområder m.v.",
+                     "budget" : 79.9
+                  },
+                  {
+                     "appropriation" : 59.1,
+                     "report" : 29.3,
+                     "account" : "1832",
+                     "name" : "Indsats vedr. integration på arbejdsmarkedet",
+                     "label" : "1832 Indsats vedr. integration på arbejdsmarkedet",
+                     "budget" : 49.5
+                  },
+                  {
+                     "appropriation" : 3635.8,
+                     "report" : 2785,
+                     "account" : "1831",
+                     "name" : "Introduktionsprogram og danskundervisning",
+                     "label" : "1831 Introduktionsprogram og danskundervisning",
+                     "budget" : 3896.6
+                  }
+               ],
+               "label" : "183 Integration",
+               "budget" : 4100.7
+            },
+            {
+               "appropriation" : 1078.1,
+               "report" : 1448.6,
+               "account" : "182",
+               "name" : "Asylansøgere",
+               "children" : [
+                  {
+                     "appropriation" : 1078.1,
+                     "report" : 1448.6,
+                     "account" : "1821",
+                     "name" : "Udgifter vedrørende asylansøgere",
+                     "label" : "1821 Udgifter vedrørende asylansøgere",
+                     "budget" : 1237.9
+                  }
+               ],
+               "label" : "182 Asylansøgere",
+               "budget" : 1237.9
+            },
+            {
+               "appropriation" : 357.7,
+               "report" : 301,
+               "account" : "181",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 357.7,
+                     "report" : 301,
+                     "account" : "1811",
+                     "name" : "Centralstyrelsen",
+                     "label" : "1811 Centralstyrelsen",
+                     "budget" : 362.4
+                  }
+               ],
+               "label" : "181 Fællesudgifter",
+               "budget" : 362.4
+            }
+         ],
+         "label" : "18 Integrationsministeriet",
+         "budget" : 5701
+      },
+      {
+         "appropriation" : 84612.7,
+         "report" : 78042.8,
+         "account" : "17",
+         "name" : "Beskæftigelsesministeriet",
+         "children" : [
+            {
+               "appropriation" : 20514,
+               "report" : 21244.1,
+               "account" : "174",
+               "name" : "Arbejdsmarkedsservice",
+               "children" : [
+                  {
+                     "appropriation" : 412.9,
+                     "report" : 1611.9,
+                     "account" : "1749",
+                     "name" : "Øvrige beskæftigelsesfremmeordninger",
+                     "label" : "1749 Øvrige beskæftigelsesfremmeordninger",
+                     "budget" : 1138.5
+                  },
+                  {
+                     "appropriation" : 8416.8,
+                     "report" : 6850.1,
+                     "account" : "1748",
+                     "name" : "Aktiv socialpolitik m.v.",
+                     "label" : "1748 Aktiv socialpolitik m.v.",
+                     "budget" : 7328.3
+                  },
+                  {
+                     "appropriation" : 10594.4,
+                     "report" : 11435.6,
+                     "account" : "1747",
+                     "name" : "Aktiv arbejdsmarkedspolitik m.v.",
+                     "label" : "1747 Aktiv arbejdsmarkedspolitik m.v.",
+                     "budget" : 11195.8
+                  },
+                  {
+                     "appropriation" : 962,
+                     "report" : 1169.8,
+                     "account" : "1745",
+                     "name" : "Arbejdsformidling og virksomhedsservice",
+                     "label" : "1745 Arbejdsformidling og virksomhedsservice",
+                     "budget" : 1061.1
+                  },
+                  {
+                     "appropriation" : 127.9,
+                     "report" : 176.8,
+                     "account" : "1741",
+                     "name" : "Fællesudgifter",
+                     "label" : "1741 Fællesudgifter",
+                     "budget" : 146
+                  }
+               ],
+               "label" : "174 Arbejdsmarkedsservice",
+               "budget" : 20869.7
+            },
+            {
+               "appropriation" : 62383.2,
+               "report" : 55068.7,
+               "account" : "173",
+               "name" : "Arbejdsmarkedsrelateret forsørgelse",
+               "children" : [
+                  {
+                     "appropriation" : 192.8,
+                     "report" : 196.7,
+                     "account" : "1739",
+                     "name" : "Tilbagetrækning",
+                     "label" : "1739 Tilbagetrækning",
+                     "budget" : 195.9
+                  },
+                  {
+                     "appropriation" : 5565,
+                     "report" : 5221.8,
+                     "account" : "1738",
+                     "name" : "Dagpenge ved sygdom",
+                     "label" : "1738 Dagpenge ved sygdom",
+                     "budget" : 4893.7
+                  },
+                  {
+                     "appropriation" : 7894,
+                     "report" : 4971.3,
+                     "account" : "1737",
+                     "name" : "Dagpenge ved barsel",
+                     "label" : "1737 Dagpenge ved barsel",
+                     "budget" : 5756.2
+                  },
+                  {
+                     "appropriation" : 4334.3,
+                     "report" : 4464.9,
+                     "account" : "1735",
+                     "name" : "Kontanthjælp m.v.",
+                     "label" : "1735 Kontanthjælp m.v.",
+                     "budget" : 4167.6
+                  },
+                  {
+                     "appropriation" : 1450,
+                     "report" : 2469.2,
+                     "account" : "1734",
+                     "name" : "Overgangsydelse",
+                     "label" : "1734 Overgangsydelse",
+                     "budget" : 2000
+                  },
+                  {
+                     "appropriation" : 22339,
+                     "report" : 19376.2,
+                     "account" : "1733",
+                     "name" : "Efterløn",
+                     "label" : "1733 Efterløn",
+                     "budget" : 20530
+                  },
+                  {
+                     "appropriation" : 19400,
+                     "report" : 17279.1,
+                     "account" : "1732",
+                     "name" : "Arbejdsløshedsdagpenge",
+                     "label" : "1732 Arbejdsløshedsdagpenge",
+                     "budget" : 18100
+                  },
+                  {
+                     "appropriation" : 1208.1,
+                     "report" : 1089.5,
+                     "account" : "1731",
+                     "name" : "Fællesudgifter",
+                     "label" : "1731 Fællesudgifter",
+                     "budget" : 1088.6
+                  }
+               ],
+               "label" : "173 Arbejdsmarkedsrelateret forsørgelse",
+               "budget" : 56732
+            },
+            {
+               "appropriation" : 1354,
+               "report" : 1488.9,
+               "account" : "172",
+               "name" : "Arbejdsmiljø",
+               "children" : [
+                  {
+                     "appropriation" : 834.6,
+                     "report" : 923.9,
+                     "account" : "1723",
+                     "name" : "Arbejdsskader og erstatninger",
+                     "label" : "1723 Arbejdsskader og erstatninger",
+                     "budget" : 896.8
+                  },
+                  {
+                     "appropriation" : 519.4,
+                     "report" : 565,
+                     "account" : "1721",
+                     "name" : "Arbejdsmiljø",
+                     "label" : "1721 Arbejdsmiljø",
+                     "budget" : 640.8
+                  }
+               ],
+               "label" : "172 Arbejdsmiljø",
+               "budget" : 1537.6
+            },
+            {
+               "appropriation" : 361.5,
+               "report" : 241,
+               "account" : "171",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 26.3,
+                     "report" : 72.7,
+                     "account" : "1719",
+                     "name" : "Øvrige fællesudgifter",
+                     "label" : "1719 Øvrige fællesudgifter",
+                     "budget" : 113.6
+                  },
+                  {
+                     "appropriation" : 335.2,
+                     "report" : 168.3,
+                     "account" : "1711",
+                     "name" : "Centralstyrelsen",
+                     "label" : "1711 Centralstyrelsen",
+                     "budget" : 154.1
+                  }
+               ],
+               "label" : "171 Fællesudgifter",
+               "budget" : 267.7
+            }
+         ],
+         "label" : "17 Beskæftigelsesministeriet",
+         "budget" : 79407
+      },
+      {
+         "appropriation" : 58680.4,
+         "report" : 58099,
+         "account" : "16",
+         "name" : "Indenrigs- og Sundhedsministeriet",
+         "children" : [
+            {
+               "appropriation" : 53093.4,
+               "report" : 53744.8,
+               "account" : "169",
+               "name" : "Tilskud til kommuner m.v.",
+               "children" : [
+                  {
+                     "appropriation" : 15898.9,
+                     "report" : 14059.7,
+                     "account" : "1695",
+                     "name" : "Udlign. af kom. udg. t. merværdiafgift",
+                     "label" : "1695 Udlign. af kom. udg. t. merværdiafgift",
+                     "budget" : 14910.7
+                  },
+                  {
+                     "appropriation" : 37194.5,
+                     "report" : 39685.1,
+                     "account" : "1691",
+                     "name" : "Tilskud til kommuner",
+                     "label" : "1691 Tilskud til kommuner",
+                     "budget" : 35587.7
+                  }
+               ],
+               "label" : "169 Tilskud til kommuner m.v.",
+               "budget" : 50498.4
+            },
+            {
+               "appropriation" : 534.8,
+               "report" : 554.4,
+               "account" : "166",
+               "name" : "Redningsberedskab",
+               "children" : [
+                  {
+                     "appropriation" : 534.8,
+                     "report" : 554.4,
+                     "account" : "1661",
+                     "name" : "Redningsberedskab",
+                     "label" : "1661 Redningsberedskab",
+                     "budget" : 487.9
+                  }
+               ],
+               "label" : "166 Redningsberedskab",
+               "budget" : 487.9
+            },
+            {
+               "appropriation" : 2075.6,
+               "report" : 1101,
+               "account" : "165",
+               "name" : "Sygehuse m.v.",
+               "children" : [
+                  {
+                     "appropriation" : 2075.6,
+                     "report" : 1101,
+                     "account" : "1651",
+                     "name" : "Sygehuse",
+                     "label" : "1651 Sygehuse",
+                     "budget" : 2625
+                  }
+               ],
+               "label" : "165 Sygehuse m.v.",
+               "budget" : 2625
+            },
+            {
+               "appropriation" : 99.9,
+               "report" : 94.9,
+               "account" : "164",
+               "name" : "Den primære sundhedstjeneste",
+               "children" : [
+                  {
+                     "appropriation" : 51,
+                     "report" : 61.2,
+                     "account" : "1645",
+                     "name" : "Apotekervæsen",
+                     "label" : "1645 Apotekervæsen",
+                     "budget" : 49.7
+                  },
+                  {
+                     "appropriation" : 48.8,
+                     "report" : 33.6,
+                     "account" : "1643",
+                     "name" : "Sygesikring",
+                     "label" : "1643 Sygesikring",
+                     "budget" : 37.3
+                  },
+                  {
+                     "appropriation" : 0.1,
+                     "report" : 0,
+                     "account" : "1641",
+                     "name" : "Sundhedsordninger",
+                     "label" : "1641 Sundhedsordninger",
+                     "budget" : 0.1
+                  }
+               ],
+               "label" : "164 Den primære sundhedstjeneste",
+               "budget" : 87.1
+            },
+            {
+               "appropriation" : 1347.6,
+               "report" : 1125.1,
+               "account" : "163",
+               "name" : "Uddannelse og forskning",
+               "children" : [
+                  {
+                     "appropriation" : 1188.3,
+                     "report" : 924.3,
+                     "account" : "1635",
+                     "name" : "Forsk. og forebyg. af smits. sygdomme m.v.",
+                     "label" : "1635 Forsk. og forebyg. af smits. sygdomme m.v.",
+                     "budget" : 1109.9
+                  },
+                  {
+                     "appropriation" : 96.5,
+                     "report" : 92.7,
+                     "account" : "1633",
+                     "name" : "Forskning, forsøg og analysevirksomhed",
+                     "label" : "1633 Forskning, forsøg og analysevirksomhed",
+                     "budget" : 88.9
+                  },
+                  {
+                     "appropriation" : 62.8,
+                     "report" : 108.1,
+                     "account" : "1631",
+                     "name" : "Uddannelse",
+                     "label" : "1631 Uddannelse",
+                     "budget" : 120.3
+                  }
+               ],
+               "label" : "163 Uddannelse og forskning",
+               "budget" : 1319.1
+            },
+            {
+               "appropriation" : 72.5,
+               "report" : 82.3,
+               "account" : "162",
+               "name" : "Forebyggelse",
+               "children" : [
+                  {
+                     "appropriation" : 72.5,
+                     "report" : 82.3,
+                     "account" : "1621",
+                     "name" : "Forebyggelse",
+                     "label" : "1621 Forebyggelse",
+                     "budget" : 67.5
+                  }
+               ],
+               "label" : "162 Forebyggelse",
+               "budget" : 67.5
+            },
+            {
+               "appropriation" : 1456.6,
+               "report" : 1396.5,
+               "account" : "161",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 357.5,
+                     "report" : 365.8,
+                     "account" : "1613",
+                     "name" : "Statsamterne",
+                     "label" : "1613 Statsamterne",
+                     "budget" : 361.6
+                  },
+                  {
+                     "appropriation" : 1099.1,
+                     "report" : 1030.7,
+                     "account" : "1611",
+                     "name" : "Centralstyrelsen",
+                     "label" : "1611 Centralstyrelsen",
+                     "budget" : 987.7
+                  }
+               ],
+               "label" : "161 Fællesudgifter",
+               "budget" : 1349.3
+            }
+         ],
+         "label" : "16 Indenrigs- og Sundhedsministeriet",
+         "budget" : 56434.3
+      },
+      {
+         "appropriation" : 104967.4,
+         "report" : 93353,
+         "account" : "15",
+         "name" : "Socialministeriet",
+         "children" : [
+            {
+               "appropriation" : 85980.5,
+               "report" : 81868.8,
+               "account" : "158",
+               "name" : "Sociale pensioner",
+               "children" : [
+                  {
+                     "appropriation" : 487.9,
+                     "report" : 0,
+                     "account" : "1589",
+                     "name" : "Førtidspension",
+                     "label" : "1589 Førtidspension",
+                     "budget" : 0
+                  },
+                  {
+                     "appropriation" : 0,
+                     "report" : 0,
+                     "account" : "1587",
+                     "name" : "Reservation til førtidspensionsreformen",
+                     "label" : "1587 Reservation til førtidspensionsreformen",
+                     "budget" : 2.7
+                  },
+                  {
+                     "appropriation" : 266.4,
+                     "report" : 46.5,
+                     "account" : "1586",
+                     "name" : "ATP-bidr. af ført.pen. samt sup. pen.opspar.",
+                     "label" : "1586 ATP-bidr. af ført.pen. samt sup. pen.opspar.",
+                     "budget" : 68.5
+                  },
+                  {
+                     "appropriation" : 952.2,
+                     "report" : 819.1,
+                     "account" : "1585",
+                     "name" : "Personlige tillæg til pensionister",
+                     "label" : "1585 Personlige tillæg til pensionister",
+                     "budget" : 1020
+                  },
+                  {
+                     "appropriation" : 5433.1,
+                     "report" : 6147.4,
+                     "account" : "1583",
+                     "name" : "Almindelig førtidspension",
+                     "label" : "1583 Almindelig førtidspension",
+                     "budget" : 5960.9
+                  },
+                  {
+                     "appropriation" : 16711.3,
+                     "report" : 16658.7,
+                     "account" : "1582",
+                     "name" : "Højeste og mellemste førtidspension",
+                     "label" : "1582 Højeste og mellemste førtidspension",
+                     "budget" : 16279.7
+                  },
+                  {
+                     "appropriation" : 62129.6,
+                     "report" : 58197.2,
+                     "account" : "1581",
+                     "name" : "Folkepension",
+                     "label" : "1581 Folkepension",
+                     "budget" : 59671
+                  }
+               ],
+               "label" : "158 Sociale pensioner",
+               "budget" : 83002.8
+            },
+            {
+               "appropriation" : 1019,
+               "report" : 825.2,
+               "account" : "157",
+               "name" : "Øvrige bistandsordninger",
+               "children" : [
+                  {
+                     "appropriation" : 517,
+                     "report" : 319.9,
+                     "account" : "1575",
+                     "name" : "Særligt udsatte grupper",
+                     "label" : "1575 Særligt udsatte grupper",
+                     "budget" : 462.2
+                  },
+                  {
+                     "appropriation" : 141.7,
+                     "report" : 153.8,
+                     "account" : "1574",
+                     "name" : "Bistand, psykiatriske patienter",
+                     "label" : "1574 Bistand, psykiatriske patienter",
+                     "budget" : 163
+                  },
+                  {
+                     "appropriation" : 360.3,
+                     "report" : 351.4,
+                     "account" : "1572",
+                     "name" : "Forsorgshjem",
+                     "label" : "1572 Forsorgshjem",
+                     "budget" : 348.2
+                  }
+               ],
+               "label" : "157 Øvrige bistandsordninger",
+               "budget" : 973.4
+            },
+            {
+               "appropriation" : 144.2,
+               "report" : 142.1,
+               "account" : "156",
+               "name" : "Bistand og pleje for handicappede",
+               "children" : [
+                  {
+                     "appropriation" : 146.5,
+                     "report" : 112.3,
+                     "account" : "1564",
+                     "name" : "Bistand og pleje for handicappede",
+                     "label" : "1564 Bistand og pleje for handicappede",
+                     "budget" : 144.3
+                  },
+                  {
+                     "appropriation" : 2.3,
+                     "report" : 29.8,
+                     "account" : "1561",
+                     "name" : "Boligbetaling i plejehjem m.v.",
+                     "label" : "1561 Boligbetaling i plejehjem m.v.",
+                     "budget" : 0
+                  }
+               ],
+               "label" : "156 Bistand og pleje for handicappede",
+               "budget" : 144.3
+            },
+            {
+               "appropriation" : 1221.8,
+               "report" : 1317.5,
+               "account" : "154",
+               "name" : "Kontanthjælp",
+               "children" : [
+                  {
+                     "appropriation" : 6.1,
+                     "report" : 28.3,
+                     "account" : "1547",
+                     "name" : "Efterlevelseshjælp",
+                     "label" : "1547 Efterlevelseshjælp",
+                     "budget" : 27.1
+                  },
+                  {
+                     "appropriation" : 85.6,
+                     "report" : 272.8,
+                     "account" : "1545",
+                     "name" : "Udg. t. pleje af pers. m. bet. og varigt ned.",
+                     "label" : "1545 Udg. t. pleje af pers. m. bet. og varigt ned.",
+                     "budget" : 41.5
+                  },
+                  {
+                     "appropriation" : 715.6,
+                     "report" : 657.7,
+                     "account" : "1544",
+                     "name" : "Udgifter i forbindelse med børns pleje",
+                     "label" : "1544 Udgifter i forbindelse med børns pleje",
+                     "budget" : 668.7
+                  },
+                  {
+                     "appropriation" : 130.8,
+                     "report" : 88.5,
+                     "account" : "1543",
+                     "name" : "Hjælp til flygtninge",
+                     "label" : "1543 Hjælp til flygtninge",
+                     "budget" : 79.6
+                  },
+                  {
+                     "appropriation" : 283.7,
+                     "report" : 270.2,
+                     "account" : "1541",
+                     "name" : "Anden kontanthjælp",
+                     "label" : "1541 Anden kontanthjælp",
+                     "budget" : 270.1
+                  }
+               ],
+               "label" : "154 Kontanthjælp",
+               "budget" : 1087
+            },
+            {
+               "appropriation" : 6735.7,
+               "report" : 6308,
+               "account" : "153",
+               "name" : "Individuel boligstøtte",
+               "children" : [
+                  {
+                     "appropriation" : 30,
+                     "report" : 32.3,
+                     "account" : "1533",
+                     "name" : "Boligydelseslån m.v., afdrag/afskrivninger",
+                     "label" : "1533 Boligydelseslån m.v., afdrag/afskrivninger",
+                     "budget" : 20
+                  },
+                  {
+                     "appropriation" : 1201.7,
+                     "report" : 1079.7,
+                     "account" : "1532",
+                     "name" : "Øvrig individuel boligstøtte",
+                     "label" : "1532 Øvrig individuel boligstøtte",
+                     "budget" : 1125.1
+                  },
+                  {
+                     "appropriation" : 5504,
+                     "report" : 5196,
+                     "account" : "1531",
+                     "name" : "Boligydelse til pensionister",
+                     "label" : "1531 Boligydelse til pensionister",
+                     "budget" : 5340.8
+                  }
+               ],
+               "label" : "153 Individuel boligstøtte",
+               "budget" : 6485.9
+            },
+            {
+               "appropriation" : 2182.4,
+               "report" : 1991,
+               "account" : "152",
+               "name" : "Børnetilskud",
+               "children" : [
+                  {
+                     "appropriation" : 165,
+                     "report" : 159.5,
+                     "account" : "1529",
+                     "name" : "Andre familieydelser",
+                     "label" : "1529 Andre familieydelser",
+                     "budget" : 151.7
+                  },
+                  {
+                     "appropriation" : 2017.4,
+                     "report" : 1831.6,
+                     "account" : "1521",
+                     "name" : "Børnetilskud",
+                     "label" : "1521 Børnetilskud",
+                     "budget" : 1884.8
+                  }
+               ],
+               "label" : "152 Børnetilskud",
+               "budget" : 2036.5
+            },
+            {
+               "appropriation" : 7683.8,
+               "report" : 900.5,
+               "account" : "151",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 4.2,
+                     "report" : 4.5,
+                     "account" : "1519",
+                     "name" : "Christiansø",
+                     "label" : "1519 Christiansø",
+                     "budget" : 4.1
+                  },
+                  {
+                     "appropriation" : 6788.6,
+                     "report" : 0,
+                     "account" : "1515",
+                     "name" : "Grundtakstmodel, overgangsordning",
+                     "label" : "1515 Grundtakstmodel, overgangsordning",
+                     "budget" : 6245.5
+                  },
+                  {
+                     "appropriation" : 12.2,
+                     "report" : 5.5,
+                     "account" : "1514",
+                     "name" : "Uddannelse",
+                     "label" : "1514 Uddannelse",
+                     "budget" : 3.3
+                  },
+                  {
+                     "appropriation" : 350.2,
+                     "report" : 325.1,
+                     "account" : "1513",
+                     "name" : "Forsknings- og forsøgsvirksomhed m.v.",
+                     "label" : "1513 Forsknings- og forsøgsvirksomhed m.v.",
+                     "budget" : 333.5
+                  },
+                  {
+                     "appropriation" : 528.6,
+                     "report" : 565.4,
+                     "account" : "1511",
+                     "name" : "Centralstyrelsen",
+                     "label" : "1511 Centralstyrelsen",
+                     "budget" : 1090.5
+                  }
+               ],
+               "label" : "151 Fællesudgifter",
+               "budget" : 7676.9
+            }
+         ],
+         "label" : "15 Socialministeriet",
+         "budget" : 101406.8
+      },
+      {
+         "appropriation" : 20027.8,
+         "report" : 19504.4,
+         "account" : "12",
+         "name" : "Forsvarsministeriet",
+         "children" : [
+            {
+               "appropriation" : 441,
+               "report" : 481.5,
+               "account" : "123",
+               "name" : "Civil virksomhed",
+               "children" : [
+                  {
+                     "appropriation" : 19.9,
+                     "report" : 27.9,
+                     "account" : "1239",
+                     "name" : "Øvrig civil virksomhed",
+                     "label" : "1239 Øvrig civil virksomhed",
+                     "budget" : 20.8
+                  },
+                  {
+                     "appropriation" : 421.1,
+                     "report" : 453.6,
+                     "account" : "1231",
+                     "name" : "Farvandsvæsen m.v.",
+                     "label" : "1231 Farvandsvæsen m.v.",
+                     "budget" : 412.8
+                  }
+               ],
+               "label" : "123 Civil virksomhed",
+               "budget" : 433.6
+            },
+            {
+               "appropriation" : 19437.7,
+               "report" : 18861.9,
+               "account" : "122",
+               "name" : "Militært forsvar",
+               "children" : [
+                  {
+                     "appropriation" : 126.8,
+                     "report" : 130.1,
+                     "account" : "1225",
+                     "name" : "Service- og hjælpetjenester",
+                     "label" : "1225 Service- og hjælpetjenester",
+                     "budget" : 119.4
+                  },
+                  {
+                     "appropriation" : 361.7,
+                     "report" : 349.6,
+                     "account" : "1222",
+                     "name" : "Særlige udgifter vedr. NATO",
+                     "label" : "1222 Særlige udgifter vedr. NATO",
+                     "budget" : 508.3
+                  },
+                  {
+                     "appropriation" : 18949.2,
+                     "report" : 18382.2,
+                     "account" : "1221",
+                     "name" : "Forsvarskommandoen og Hjemmeværnet",
+                     "label" : "1221 Forsvarskommandoen og Hjemmeværnet",
+                     "budget" : 17892.7
+                  }
+               ],
+               "label" : "122 Militært forsvar",
+               "budget" : 18520.4
+            },
+            {
+               "appropriation" : 149.1,
+               "report" : 161,
+               "account" : "121",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 149.1,
+                     "report" : 161,
+                     "account" : "1211",
+                     "name" : "Centralstyrelsen",
+                     "label" : "1211 Centralstyrelsen",
+                     "budget" : 269.1
+                  }
+               ],
+               "label" : "121 Fællesudgifter",
+               "budget" : 269.1
+            }
+         ],
+         "label" : "12 Forsvarsministeriet",
+         "budget" : 19223.1
+      },
+      {
+         "appropriation" : 11248,
+         "report" : 10545.4,
+         "account" : "11",
+         "name" : "Justitsministeriet",
+         "children" : [
+            {
+               "appropriation" : 1612.4,
+               "report" : 1608.5,
+               "account" : "114",
+               "name" : "Retsvæsenet",
+               "children" : [
+                  {
+                     "appropriation" : 328,
+                     "report" : 328.9,
+                     "account" : "1142",
+                     "name" : "Sagsudgifter",
+                     "label" : "1142 Sagsudgifter",
+                     "budget" : 327.5
+                  },
+                  {
+                     "appropriation" : 1284.4,
+                     "report" : 1279.5,
+                     "account" : "1141",
+                     "name" : "Fællesudgifter",
+                     "label" : "1141 Fællesudgifter",
+                     "budget" : 1254.1
+                  }
+               ],
+               "label" : "114 Retsvæsenet",
+               "budget" : 1581.6
+            },
+            {
+               "appropriation" : 2226.1,
+               "report" : 1885.4,
+               "account" : "113",
+               "name" : "Kriminalforsorg",
+               "children" : [
+                  {
+                     "appropriation" : 2226.1,
+                     "report" : 1885.4,
+                     "account" : "1131",
+                     "name" : "Kriminalforsorg",
+                     "label" : "1131 Kriminalforsorg",
+                     "budget" : 1976
+                  }
+               ],
+               "label" : "113 Kriminalforsorg",
+               "budget" : 1976
+            },
+            {
+               "appropriation" : 7146.9,
+               "report" : 6787.3,
+               "account" : "112",
+               "name" : "Politivæsenet",
+               "children" : [
+                  {
+                     "appropriation" : 6556.3,
+                     "report" : 6217.9,
+                     "account" : "1123",
+                     "name" : "Politi",
+                     "label" : "1123 Politi",
+                     "budget" : 6347.2
+                  },
+                  {
+                     "appropriation" : 590.6,
+                     "report" : 569.4,
+                     "account" : "1121",
+                     "name" : "Fællesudgifter",
+                     "label" : "1121 Fællesudgifter",
+                     "budget" : 567
+                  }
+               ],
+               "label" : "112 Politivæsenet",
+               "budget" : 6914.2
+            },
+            {
+               "appropriation" : 262.6,
+               "report" : 264.3,
+               "account" : "111",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 262.6,
+                     "report" : 264.3,
+                     "account" : "1111",
+                     "name" : "Centralstyrelsen",
+                     "label" : "1111 Centralstyrelsen",
+                     "budget" : 277.8
+                  }
+               ],
+               "label" : "111 Fællesudgifter",
+               "budget" : 277.8
+            }
+         ],
+         "label" : "11 Justitsministeriet",
+         "budget" : 10749.6
+      },
+      {
+         "appropriation" : 3762.2,
+         "report" : 3845.8,
+         "account" : "09",
+         "name" : "Skatteministeriet",
+         "children" : [
+            {
+               "appropriation" : 3565.1,
+               "report" : 3639.7,
+               "account" : "092",
+               "name" : "Forvaltning",
+               "children" : [
+                  {
+                     "appropriation" : 63.8,
+                     "report" : 95.8,
+                     "account" : "0922",
+                     "name" : "Finansforvaltning",
+                     "label" : "0922 Finansforvaltning",
+                     "budget" : 91.8
+                  },
+                  {
+                     "appropriation" : 3501.3,
+                     "report" : 3543.9,
+                     "account" : "0921",
+                     "name" : "Skatte- og afgiftsforvaltning",
+                     "label" : "0921 Skatte- og afgiftsforvaltning",
+                     "budget" : 3401.5
+                  }
+               ],
+               "label" : "092 Forvaltning",
+               "budget" : 3493.3
+            },
+            {
+               "appropriation" : 197.1,
+               "report" : 206.1,
+               "account" : "091",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 197.1,
+                     "report" : 206.1,
+                     "account" : "0911",
+                     "name" : "Centralstyrelsen",
+                     "label" : "0911 Centralstyrelsen",
+                     "budget" : 193.6
+                  }
+               ],
+               "label" : "091 Fællesudgifter",
+               "budget" : 193.6
+            }
+         ],
+         "label" : "09 Skatteministeriet",
+         "budget" : 3686.9
+      },
+      {
+         "appropriation" : 8343.8,
+         "report" : 8293.5,
+         "account" : "08",
+         "name" : "Økonomi- og Erhvervsministeriet",
+         "children" : [
+            {
+               "appropriation" : 397,
+               "report" : 410.1,
+               "account" : "087",
+               "name" : "Søfart",
+               "children" : [
+                  {
+                     "appropriation" : 397,
+                     "report" : 410.1,
+                     "account" : "0871",
+                     "name" : "Fællesudgifter",
+                     "label" : "0871 Fællesudgifter",
+                     "budget" : 376.6
+                  }
+               ],
+               "label" : "087 Søfart",
+               "budget" : 376.6
+            },
+            {
+               "appropriation" : 886.9,
+               "report" : 1686.8,
+               "account" : "086",
+               "name" : "Energi",
+               "children" : [
+                  {
+                     "appropriation" : 22.8,
+                     "report" : 83.4,
+                     "account" : "0866",
+                     "name" : "Øststøtte og energi m.v.",
+                     "label" : "0866 Øststøtte og energi m.v.",
+                     "budget" : 1.7
+                  },
+                  {
+                     "appropriation" : 515.6,
+                     "report" : 976,
+                     "account" : "0865",
+                     "name" : "Tilskud til begrænsning af kuldioxid (CO2)",
+                     "label" : "0865 Tilskud til begrænsning af kuldioxid (CO2)",
+                     "budget" : 819.6
+                  },
+                  {
+                     "appropriation" : 131.3,
+                     "report" : 316.1,
+                     "account" : "0864",
+                     "name" : "Vedvarenden energi",
+                     "label" : "0864 Vedvarenden energi",
+                     "budget" : 134.3
+                  },
+                  {
+                     "appropriation" : 0,
+                     "report" : 0,
+                     "account" : "0863",
+                     "name" : "Efterforskning og indvinding af energi m.m.",
+                     "label" : "0863 Efterforskning og indvinding af energi m.m.",
+                     "budget" : 30
+                  },
+                  {
+                     "appropriation" : 40.7,
+                     "report" : 104.5,
+                     "account" : "0862",
+                     "name" : "Forskning og udvikling",
+                     "label" : "0862 Forskning og udvikling",
+                     "budget" : 40
+                  },
+                  {
+                     "appropriation" : 176.5,
+                     "report" : 206.9,
+                     "account" : "0861",
+                     "name" : "Fællesudgifter",
+                     "label" : "0861 Fællesudgifter",
+                     "budget" : 183.7
+                  }
+               ],
+               "label" : "086 Energi",
+               "budget" : 1209.3
+            },
+            {
+               "appropriation" : 290.8,
+               "report" : 294.7,
+               "account" : "085",
+               "name" : "Statistik",
+               "children" : [
+                  {
+                     "appropriation" : 290.8,
+                     "report" : 294.7,
+                     "account" : "0851",
+                     "name" : "Statistik",
+                     "label" : "0851 Statistik",
+                     "budget" : 285.4
+                  }
+               ],
+               "label" : "085 Statistik",
+               "budget" : 285.4
+            },
+            {
+               "appropriation" : 3397.3,
+               "report" : 3332.5,
+               "account" : "084",
+               "name" : "Støttet boligbyggeri og byfornyelse",
+               "children" : [
+                  {
+                     "appropriation" : 70.8,
+                     "report" : 74.6,
+                     "account" : "0846",
+                     "name" : "Forskning, udvikling, byer, boliger, byggeri",
+                     "label" : "0846 Forskning, udvikling, byer, boliger, byggeri",
+                     "budget" : 80.6
+                  },
+                  {
+                     "appropriation" : 80,
+                     "report" : 0,
+                     "account" : "0845",
+                     "name" : "Hensættelser vedr. byfornyelse og sanering",
+                     "label" : "0845 Hensættelser vedr. byfornyelse og sanering",
+                     "budget" : 0
+                  },
+                  {
+                     "appropriation" : 0,
+                     "report" : 0,
+                     "account" : "0844",
+                     "name" : "Alment boligbyggeri, hensættelser",
+                     "label" : "0844 Alment boligbyggeri, hensættelser",
+                     "budget" : 213
+                  },
+                  {
+                     "appropriation" : 634,
+                     "report" : 1061.1,
+                     "account" : "0843",
+                     "name" : "Byfornyelse",
+                     "label" : "0843 Byfornyelse",
+                     "budget" : 595.3
+                  },
+                  {
+                     "appropriation" : 350.8,
+                     "report" : 238.1,
+                     "account" : "0842",
+                     "name" : "Privat boligbyggeri",
+                     "label" : "0842 Privat boligbyggeri",
+                     "budget" : 207.4
+                  },
+                  {
+                     "appropriation" : 2421.7,
+                     "report" : 1958.7,
+                     "account" : "0841",
+                     "name" : "Alment boligbyggeri",
+                     "label" : "0841 Alment boligbyggeri",
+                     "budget" : 2239.4
+                  }
+               ],
+               "label" : "084 Støttet boligbyggeri og byfornyelse",
+               "budget" : 3335.7
+            },
+            {
+               "appropriation" : 2389.9,
+               "report" : 1641.2,
+               "account" : "083",
+               "name" : "Erhvervsfremme og boligforhold",
+               "children" : [
+                  {
+                     "appropriation" : 18.2,
+                     "report" : 39,
+                     "account" : "0837",
+                     "name" : "Byggeri og boliger",
+                     "label" : "0837 Byggeri og boliger",
+                     "budget" : 1010.6
+                  },
+                  {
+                     "appropriation" : 56.9,
+                     "report" : 113.1,
+                     "account" : "0836",
+                     "name" : "Afvikling af ophørte ordninger m.v.",
+                     "label" : "0836 Afvikling af ophørte ordninger m.v.",
+                     "budget" : 78.8
+                  },
+                  {
+                     "appropriation" : 914,
+                     "report" : 522.4,
+                     "account" : "0835",
+                     "name" : "Regionaludvikling og turisme m.v.",
+                     "label" : "0835 Regionaludvikling og turisme m.v.",
+                     "budget" : 421.9
+                  },
+                  {
+                     "appropriation" : 493,
+                     "report" : 707.2,
+                     "account" : "0833",
+                     "name" : "Erhvervsfremme m.v.",
+                     "label" : "0833 Erhvervsfremme m.v.",
+                     "budget" : 497.6
+                  },
+                  {
+                     "appropriation" : 667.9,
+                     "report" : 7.2,
+                     "account" : "0832",
+                     "name" : "Eksportfinansiering og øststøtte m.v.",
+                     "label" : "0832 Eksportfinansiering og øststøtte m.v.",
+                     "budget" : 2
+                  },
+                  {
+                     "appropriation" : 239.9,
+                     "report" : 252.5,
+                     "account" : "0831",
+                     "name" : "Fællesudgifter",
+                     "label" : "0831 Fællesudgifter",
+                     "budget" : 227.7
+                  }
+               ],
+               "label" : "083 Erhvervsfremme og boligforhold",
+               "budget" : 217.4
+            },
+            {
+               "appropriation" : 756.7,
+               "report" : 694.6,
+               "account" : "082",
+               "name" : "Erhvervsregulering og forbrugerforhold",
+               "children" : [
+                  {
+                     "appropriation" : 126.1,
+                     "report" : 112,
+                     "account" : "0823",
+                     "name" : "Finansielt tilsyn",
+                     "label" : "0823 Finansielt tilsyn",
+                     "budget" : 121.4
+                  },
+                  {
+                     "appropriation" : 170.6,
+                     "report" : 176.6,
+                     "account" : "0822",
+                     "name" : "Forbrugerbeskyttelse- og oplysning",
+                     "label" : "0822 Forbrugerbeskyttelse- og oplysning",
+                     "budget" : 159.1
+                  },
+                  {
+                     "appropriation" : 460,
+                     "report" : 405.9,
+                     "account" : "0821",
+                     "name" : "Tilsyns- og registervirksomhed",
+                     "label" : "0821 Tilsyns- og registervirksomhed",
+                     "budget" : 465.1
+                  }
+               ],
+               "label" : "082 Erhvervsregulering og forbrugerforhold",
+               "budget" : 745.6
+            },
+            {
+               "appropriation" : 225.2,
+               "report" : 233.6,
+               "account" : "081",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 225.2,
+                     "report" : 233.6,
+                     "account" : "0811",
+                     "name" : "Centralstyrelsen",
+                     "label" : "0811 Centralstyrelsen",
+                     "budget" : 234.1
+                  }
+               ],
+               "label" : "081 Fællesudgifter",
+               "budget" : 234.1
+            }
+         ],
+         "label" : "08 Økonomi- og Erhvervsministeriet",
+         "budget" : 6404.1
+      },
+      {
+         "appropriation" : 9389.6,
+         "report" : 9139.9,
+         "account" : "07",
+         "name" : "Finansministeriet",
+         "children" : [
+            {
+               "appropriation" : 3567.6,
+               "report" : 3775.2,
+               "account" : "073",
+               "name" : "Grønland og Færøerne",
+               "children" : [
+                  {
+                     "appropriation" : 615.5,
+                     "report" : 981.9,
+                     "account" : "0732",
+                     "name" : "Færøerne",
+                     "label" : "0732 Færøerne",
+                     "budget" : 615.5
+                  },
+                  {
+                     "appropriation" : 2952.1,
+                     "report" : 2793.3,
+                     "account" : "0731",
+                     "name" : "Grønland",
+                     "label" : "0731 Grønland",
+                     "budget" : 2877.3
+                  }
+               ],
+               "label" : "073 Grønland og Færøerne",
+               "budget" : 3492.8
+            },
+            {
+               "appropriation" : 5822,
+               "report" : 5364.7,
+               "account" : "071",
+               "name" : "Offentlig økonomi",
+               "children" : [
+                  {
+                     "appropriation" : 2612.3,
+                     "report" : 2798.9,
+                     "account" : "0718",
+                     "name" : "Tipsfonde",
+                     "label" : "0718 Tipsfonde",
+                     "budget" : 2667.7
+                  },
+                  {
+                     "appropriation" : 1405.5,
+                     "report" : 1183.1,
+                     "account" : "0716",
+                     "name" : "Slotte og ejendomme",
+                     "label" : "0716 Slotte og ejendomme",
+                     "budget" : 1466.8
+                  },
+                  {
+                     "appropriation" : 73.9,
+                     "report" : 48.6,
+                     "account" : "0715",
+                     "name" : "Statslige selskaber",
+                     "label" : "0715 Statslige selskaber",
+                     "budget" : 0
+                  },
+                  {
+                     "appropriation" : 343.1,
+                     "report" : 265.1,
+                     "account" : "0714",
+                     "name" : "Personalerådgivning, løn- og pensionsforvalt.",
+                     "label" : "0714 Personalerådgivning, løn- og pensionsforvalt.",
+                     "budget" : 324.4
+                  },
+                  {
+                     "appropriation" : 301.5,
+                     "report" : 319.4,
+                     "account" : "0713",
+                     "name" : "Finansforvaltning",
+                     "label" : "0713 Finansforvaltning",
+                     "budget" : 348.8
+                  },
+                  {
+                     "appropriation" : 887.4,
+                     "report" : 492.1,
+                     "account" : "0712",
+                     "name" : "Økonomisystemer og økonomiforvaltning",
+                     "label" : "0712 Økonomisystemer og økonomiforvaltning",
+                     "budget" : 631.2
+                  },
+                  {
+                     "appropriation" : 198.3,
+                     "report" : 257.5,
+                     "account" : "0711",
+                     "name" : "Centralstyrelsen",
+                     "label" : "0711 Centralstyrelsen",
+                     "budget" : 234.8
+                  }
+               ],
+               "label" : "071 Offentlig økonomi",
+               "budget" : 5673.7
+            }
+         ],
+         "label" : "07 Finansministeriet",
+         "budget" : 9166.5
+      },
+      {
+         "appropriation" : 13953.3,
+         "report" : 15576.1,
+         "account" : "06",
+         "name" : "Udenrigsministeriet",
+         "children" : [
+            {
+               "appropriation" : 462,
+               "report" : 477.8,
+               "account" : "064",
+               "name" : "Danmarks Eksportråd",
+               "children" : [
+                  {
+                     "appropriation" : 462,
+                     "report" : 477.8,
+                     "account" : "0641",
+                     "name" : "Fællesudgifter",
+                     "label" : "0641 Fællesudgifter",
+                     "budget" : 480.9
+                  }
+               ],
+               "label" : "064 Danmarks Eksportråd",
+               "budget" : 480.9
+            },
+            {
+               "appropriation" : 10535.7,
+               "report" : 11500.4,
+               "account" : "063",
+               "name" : "Bistand til udviklingslandene",
+               "children" : [
+                  {
+                     "appropriation" : 131.6,
+                     "report" : 44.9,
+                     "account" : "0638",
+                     "name" : "Multilateral bistand til centrale temaer",
+                     "label" : "0638 Multilateral bistand til centrale temaer",
+                     "budget" : 160
+                  },
+                  {
+                     "appropriation" : 817,
+                     "report" : 1115.5,
+                     "account" : "0637",
+                     "name" : "Humanitær bistand og flygtningebistand",
+                     "label" : "0637 Humanitær bistand og flygtningebistand",
+                     "budget" : 797
+                  },
+                  {
+                     "appropriation" : 717,
+                     "report" : 538.4,
+                     "account" : "0636",
+                     "name" : "Anden multilateral udviklingsbistand",
+                     "label" : "0636 Anden multilateral udviklingsbistand",
+                     "budget" : 644.9
+                  },
+                  {
+                     "appropriation" : 858.6,
+                     "report" : 863.3,
+                     "account" : "0635",
+                     "name" : "Multilateral bistand gennem banker og fonde",
+                     "label" : "0635 Multilateral bistand gennem banker og fonde",
+                     "budget" : 989.7
+                  },
+                  {
+                     "appropriation" : 1578.5,
+                     "report" : 1766.4,
+                     "account" : "0634",
+                     "name" : "Multilateral bistand gennem FN-systemet",
+                     "label" : "0634 Multilateral bistand gennem FN-systemet",
+                     "budget" : 1518
+                  },
+                  {
+                     "appropriation" : 1039.7,
+                     "report" : 1210,
+                     "account" : "0633",
+                     "name" : "Anden bilateral bistand",
+                     "label" : "0633 Anden bilateral bistand",
+                     "budget" : 1087
+                  },
+                  {
+                     "appropriation" : 4738.6,
+                     "report" : 5318.2,
+                     "account" : "0632",
+                     "name" : "Bilateral sektorprg.bistand-og projektbistand",
+                     "label" : "0632 Bilateral sektorprg.bistand-og projektbistand",
+                     "budget" : 4661.1
+                  },
+                  {
+                     "appropriation" : 654.7,
+                     "report" : 643.8,
+                     "account" : "0631",
+                     "name" : "Fællesudgifter",
+                     "label" : "0631 Fællesudgifter",
+                     "budget" : 640
+                  }
+               ],
+               "label" : "063 Bistand til udviklingslandene",
+               "budget" : 10497.7
+            },
+            {
+               "appropriation" : 387.4,
+               "report" : 387,
+               "account" : "062",
+               "name" : "Internationale organisationer",
+               "children" : [
+                  {
+                     "appropriation" : 229.8,
+                     "report" : 227.5,
+                     "account" : "0622",
+                     "name" : "Øvrige internationale organisationer",
+                     "label" : "0622 Øvrige internationale organisationer",
+                     "budget" : 187.6
+                  },
+                  {
+                     "appropriation" : 157.6,
+                     "report" : 159.5,
+                     "account" : "0621",
+                     "name" : "Nordiske formål",
+                     "label" : "0621 Nordiske formål",
+                     "budget" : 159.4
+                  }
+               ],
+               "label" : "062 Internationale organisationer",
+               "budget" : 347
+            },
+            {
+               "appropriation" : 2568.2,
+               "report" : 3210.9,
+               "account" : "061",
+               "name" : "Udenrigstjenesten m.v.",
+               "children" : [
+                  {
+                     "appropriation" : 2568.2,
+                     "report" : 3210.9,
+                     "account" : "0611",
+                     "name" : "Udenrigstjenesten",
+                     "label" : "0611 Udenrigstjenesten",
+                     "budget" : 2553.2
+                  }
+               ],
+               "label" : "061 Udenrigstjenesten m.v.",
+               "budget" : 2553.2
+            }
+         ],
+         "label" : "06 Udenrigsministeriet",
+         "budget" : 13878.8
+      },
+      {
+         "appropriation" : 126,
+         "report" : 113.6,
+         "account" : "05",
+         "name" : "Statsministeriet",
+         "children" : [
+            {
+               "appropriation" : 126,
+               "report" : 113.6,
+               "account" : "051",
+               "name" : "Fællesudgifter",
+               "children" : [
+                  {
+                     "appropriation" : 18.6,
+                     "report" : 18.2,
+                     "account" : "0512",
+                     "name" : "Grønland og Færøerne",
+                     "label" : "0512 Grønland og Færøerne",
+                     "budget" : 14.5
+                  },
+                  {
+                     "appropriation" : 107.4,
+                     "report" : 95.3,
+                     "account" : "0511",
+                     "name" : "Centralstyrelsen",
+                     "label" : "0511 Centralstyrelsen",
+                     "budget" : 96.4
+                  }
+               ],
+               "label" : "051 Fællesudgifter",
+               "budget" : 110.9
+            }
+         ],
+         "label" : "05 Statsministeriet",
+         "budget" : 110.9
+      },
+      {
+         "appropriation" : 802.8,
+         "report" : 714.7,
+         "account" : "03",
+         "name" : "Folketinget",
+         "children" : [
+            {
+               "appropriation" : 164.4,
+               "report" : 149.3,
+               "account" : "033",
+               "name" : "Statsrevisoratet og Rigsrevisionen",
+               "children" : [
+                  {
+                     "appropriation" : 164.4,
+                     "report" : 149.3,
+                     "account" : "0331",
+                     "name" : "Statsrevisoratet og Rigsrevisionen",
+                     "label" : "0331 Statsrevisoratet og Rigsrevisionen",
+                     "budget" : 159.4
+                  }
+               ],
+               "label" : "033 Statsrevisoratet og Rigsrevisionen",
+               "budget" : 159.4
+            },
+            {
+               "appropriation" : 39.9,
+               "report" : 34.3,
+               "account" : "032",
+               "name" : "Folketingets Ombudsmand",
+               "children" : [
+                  {
+                     "appropriation" : 39.9,
+                     "report" : 34.3,
+                     "account" : "0321",
+                     "name" : "Folketingets Ombudsmand",
+                     "label" : "0321 Folketingets Ombudsmand",
+                     "budget" : 36.8
+                  }
+               ],
+               "label" : "032 Folketingets Ombudsmand",
+               "budget" : 36.8
+            },
+            {
+               "appropriation" : 598.5,
+               "report" : 531.1,
+               "account" : "031",
+               "name" : "Udgifter ved Folketinget",
+               "children" : [
+                  {
+                     "appropriation" : 598.5,
+                     "report" : 531.1,
+                     "account" : "0311",
+                     "name" : "Folketinget",
+                     "label" : "0311 Folketinget",
+                     "budget" : 605.9
+                  }
+               ],
+               "label" : "031 Udgifter ved Folketinget",
+               "budget" : 605.9
+            }
+         ],
+         "label" : "03 Folketinget",
+         "budget" : 802.1
+      },
+      {
+         "appropriation" : 7.9,
+         "report" : 8.9,
+         "account" : "02",
+         "name" : "Medlemmer af det kongelige hus",
+         "children" : [
+            {
+               "appropriation" : 7.9,
+               "report" : 8.9,
+               "account" : "021",
+               "name" : "Årpenge",
+               "children" : [
+                  {
+                     "appropriation" : 7.9,
+                     "report" : 8.9,
+                     "account" : "0211",
+                     "name" : "Årpenge",
+                     "label" : "0211 Årpenge",
+                     "budget" : 7.7
+                  }
+               ],
+               "label" : "021 Årpenge",
+               "budget" : 7.7
+            }
+         ],
+         "label" : "02 Medlemmer af det kongelige hus",
+         "budget" : 7.7
+      },
+      {
+         "appropriation" : 58.5,
+         "report" : 53.1,
+         "account" : "01",
+         "name" : "Dronningen",
+         "children" : [
+            {
+               "appropriation" : 58.5,
+               "report" : 53.1,
+               "account" : "011",
+               "name" : "Statsydelse",
+               "children" : [
+                  {
+                     "appropriation" : 58.5,
+                     "report" : 53.1,
+                     "account" : "0111",
+                     "name" : "Statsydelse",
+                     "label" : "0111 Statsydelse",
+                     "budget" : 57
+                  }
+               ],
+               "label" : "011 Statsydelse",
+               "budget" : 57
+            }
+         ],
+         "label" : "01 Dronningen",
+         "budget" : 57
+      }
+   ],
+   "label" : "ROOT",
+   "budget" : 403952.8
+}

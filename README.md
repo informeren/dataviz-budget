@@ -19,3 +19,5 @@ Notes
 To test locally, you can use the following command to [run a static HTTP server](https://gist.github.com/willurd/5720255) on your local machine:
 
     python -m SimpleHTTPServer 8000
+
+Based on the [Zoomable Sunburst diagram](http://bl.ocks.org/mbostock/4348373) by Mike Bostock.

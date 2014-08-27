@@ -1,5 +1,3 @@
-function chart(source) {
-
 // Define the size of the canvas
 var width = 540,
     height = 540,
@@ -13,19 +11,12 @@ var x = d3.scale.linear()
 var y = d3.scale.sqrt()
     .range([0, radius]);
 
-// Set up a scale containing 6 categorical colors (from http://colorbrewer2.org/)
-var color = d3.scale.ordinal().range(["#252525","#525252","#737373","#969696","#bdbdbd","#d9d9d9"]);
-
-// Create and position an SVG element for the graph
-var svg = d3.select('#chart').insert('svg')
-    .attr('width', width)
-    .attr('height', height)
-    .append('g')
-    .attr('transform', 'translate(' + width / 2 + ',' + (height / 2) + ')');
+// Set up a scale with colors based on http://bl.ocks.org/mbostock/5577023
+var color = d3.scale.ordinal().range(colorbrewer.YlGn[6]);
 
 // Set up a partition layout based on budget amounts
 var partition = d3.layout.partition()
-    .value(function(d) { return d.amount2014; });
+    .value(function(d) { return d.appropriation; });
 
 // Set up the parameters for drawing arcs
 var arc = d3.svg.arc()
@@ -34,55 +25,72 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
-// Load the JSON data and set up the chart
-d3.json(source, function(error, root) {
-  var path = svg.selectAll('path')
-    .data(partition.nodes(root))
-    .enter().append('path')
-    .attr('d', arc)
-    .style('fill', arcfill)
-    .on('click', click)
-    .on('mouseover', highlight)
-    .on('mouseout', lowlight);
+function initChart() {
+  // Create and position an SVG element for the graph
+  var svg = d3.select('#chart').insert('svg')
+      .attr('width', width)
+      .attr('height', height)
+      .append('g')
+      .attr('transform', 'translate(' + width / 2 + ',' + (height / 2) + ')')
+      .attr('id', 'sunburst');
+}
 
-  function click(d) {
-    path.transition()
-      .duration(750)
-      .attrTween('d', arcTween(d));
-  }
+function chart(source) {
+  var svg = d3.selectAll('#sunburst');
 
-  function arcfill(d) {
-    return d.depth ? color((d.children ? d : d.parent).name) : d3.rgb('#f0f0f0');
-  }
-
-  function highlight(item) {
-    d3.selectAll('path').style('opacity', function(d) {
-      if (item.depth > 0 && d.account != item.account && !isChild(d, item.account)) {
-        return 0.4;
-      } else {
-        return 1;
-      }
-    })
-    .style('fill', function(d) {
-      if (d.depth > 0 && d.account == item.account) {
-        return '#ed1c24';
-      }
-      else {
-        return arcfill(d);
-      }
-    });
-
-    updateSidebar(item);
-  }
-
-  function lowlight(item) {
-    d3.selectAll('path').style('opacity', 1).style('fill', arcfill);
-
-    var root = getRoot(item);
+  // Load the JSON data and set up the chart
+  d3.json(source, function(error, root) {
     updateSidebar(root);
-  }
 
-});
+    svg.selectAll('path').remove();
+    svg.selectAll('path')
+      .data(partition.nodes(root))
+      .enter().append('path')
+      .attr('d', arc)
+      .style('fill', arcfill)
+      .on('click', click)
+      .on('mouseover', highlight)
+      .on('mouseout', lowlight);
+  });
+}
+
+function click(d) {
+  var path = d3.selectAll('#sunburst').selectAll('path');
+  path.transition()
+    .duration(750)
+    .attrTween('d', arcTween(d));
+}
+
+function arcfill(d) {
+  return d.depth ? color((d.children ? d : d.parent).name) : d3.rgb('#f0f0f0');
+}
+
+function highlight(item) {
+  d3.selectAll('path').style('opacity', function(d) {
+    if (item.depth > 0 && d.account != item.account && !isChild(d, item.account)) {
+      return 0.4;
+    } else {
+      return 1;
+    }
+  })
+  .style('fill', function(d) {
+    if (d.depth > 0 && d.account == item.account) {
+      return '#ed1c24';
+    }
+    else {
+      return arcfill(d);
+    }
+  });
+
+  updateSidebar(item);
+}
+
+function lowlight(item) {
+  d3.selectAll('path').style('opacity', 1).style('fill', arcfill);
+
+  var root = getRoot(item);
+  updateSidebar(root);
+}
 
 // Interpolate the scales!
 function arcTween(d) {
@@ -130,10 +138,27 @@ function formatAmount(amount) {
 }
 
 function updateSidebar(item) {
-  $('dd#label > span').html(item.name);
-  $('dd#amount2012 > span').html(formatAmount(item.amount2012));
-  $('dd#amount2013 > span').html(formatAmount(item.amount2013));
-  $('dd#amount2014 > span').html(formatAmount(item.amount2014));
+  var year = d3.select('#year').property('value');
+
+  d3.select('dd#name').html(item.name);
+  d3.select('dd#report').html(formatAmount(item.report) + ' million');
+  d3.select('dd#budget').html(formatAmount(item.budget) + ' million');
+  d3.select('dd#appropriation').html(formatAmount(item.appropriation) + ' million');
+
+  d3.select('dt#label-a').text('Appropriation ' + year);
+  year--;
+  d3.select('dt#label-b').text('Budget ' + year);
+  year--;
+  d3.select('dt#label-r').text('Report ' + year);
 }
 
+function updateChart() {
+  var year = d3.select('#year').property('value');
+  chart('./data/' + year + '.json');
 }
+
+d3.selectAll('#year').on('change', updateChart);
+
+// Go!
+initChart();
+updateChart();

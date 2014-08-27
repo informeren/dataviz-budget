@@ -44,11 +44,11 @@ A comma-separated list of account numbers to exclude from the generated file. Th
 
 =head2 Data Structures
 
-The @amounts array contains the following values:
+The @amounts array contains the following values (when looking at data for 2014):
 
-   * R 2012
-   * B 2013
-   * F 2014
+   * R 2012 (report)
+   * B 2013 (budget)
+   * F 2014 (appropriation)
    * BO 2015
    * BO 2016
    * BO 2017
@@ -96,7 +96,7 @@ print "Processing $count lines...";
 my $header = shift @lines;
 
 # initialize counters
-my ($total_r, $total_b, $total_f) = (0) x 3;
+my ($total_report, $total_budget, $total_appropriation) = (0) x 3;
 my $workspace = {};
 
 # process the file in the order last line -> first line
@@ -136,12 +136,14 @@ while (@lines) {
   delete $workspace->{$sub_level};
 
   # add the finished item
-  push @{$workspace->{$level}}, $item if not $exclude{$item->{'account'}};
+  if (!$exclude{$item->{'account'}}) {
+    push @{$workspace->{$level}}, $item;
 
-  if ($level == 1) {
-    $total_r += $item->{'amount2012'};
-    $total_b += $item->{'amount2013'};
-    $total_f += $item->{'amount2014'};
+    if ($level == 1) {
+      $total_report += $item->{'report'};
+      $total_budget += $item->{'budget'};
+      $total_appropriation += $item->{'appropriation'};
+    }
   }
 }
 
@@ -152,9 +154,9 @@ my $result = {
   'label' => 'ROOT',
   'account' => 0,
   'name' => 'Alle udgifter',
-  'amount2012' => $total_r,
-  'amount2013' => $total_b,
-  'amount2014' => $total_f,
+  'report' => $total_report,
+  'budget' => $total_budget,
+  'appropriation' => $total_appropriation,
   'children' => $workspace->{1},
 };
 
@@ -182,9 +184,9 @@ sub create_item {
     'label' => $label,
     'account' => $account,
     'name' => $name,
-    'amount2012' => $amounts->[0],
-    'amount2013' => $amounts->[1],
-    'amount2014' => $amounts->[2],
+    'report' => $amounts->[0],
+    'budget' => $amounts->[1],
+    'appropriation' => $amounts->[2],
   };
 
   return $item;
