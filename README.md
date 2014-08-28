@@ -3,15 +3,19 @@ The National Budget
 
 This data visualization is the result of a [data sprint](http://www.information.dk/databloggen/480268) held at Dagbladet Information on November 27th, 2013. This code can be used to create your own zoomable sunburst diagrams based on available budget figures.
 
-Manifest
+Sunburst
 --------
 
-* **bin/budget.pl** A utility which converts CSV files from Finanslovsdatabasen to hierarchical JSON files for use with D3.js. Run `perldoc budget.pl` to read the documentation.
-* **data/budget.csv** A small example data set. You can use [Finanslovsdatabasen](http://www.oes-cs.dk/olapdatabase/finanslov/index.cgi) to create your own reports.
-* **html/budget.css** Styles for the chart and the sidebar.
-* **html/budget.html** The page containing the chart.
-* **html/budget.js** The code which renders the chart and enables interactivity.
-* **html/budget.json** The example data generated from `budget.csv`.
+This interactive graph lets you explore the national budget from 2003 to 2015 using a zoomable sunburst diagram.
+
+![National Budget - Sunburst](https://raw.githubusercontent.com/informeren/dataviz-budget/master/doc/sunburst.png)
+
+Stacked bars
+------------
+
+This interactive graph lets you explore the national budget from 2003 to 2015 using a stacked bar chart.
+
+![National Budget - Stacked Bars](https://raw.githubusercontent.com/informeren/dataviz-budget/master/doc/stacked.png)
 
 Notes
 -----
@@ -20,4 +24,4 @@ To test locally, you can use the following command to [run a static HTTP server]
 
     python -m SimpleHTTPServer 8000
 
-Based on the [Zoomable Sunburst diagram](http://bl.ocks.org/mbostock/4348373) by Mike Bostock.
+Based on the [Zoomable Sunburst](http://bl.ocks.org/mbostock/4348373) and [Normalized Stacked Bar Chart](http://bl.ocks.org/mbostock/3886394) diagrams by Mike Bostock.
