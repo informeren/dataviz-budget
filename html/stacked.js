@@ -19,34 +19,32 @@ svg.attr('width', width + margin.left + margin.right)
 d3.csv('./data/stacked.csv', function(error, data) {
   color.domain(d3.keys(data[0]).filter(function(key) { return key !== 'Year'; }).sort());
 
-    data.forEach(function(d) {
-      var y0 = 0;
-      d.amounts = color.domain().map(function(name) { return {name: name, y0: y0, y1: y0 += +d[name], amount: d[name], year: d['Year']}; }).sort();
-      d.amounts.forEach(function(d) { d.y0 /= y0; d.y1 /= y0; });
-    });
+  data.forEach(function(d) {
+    var y0 = 0;
+    d.amounts = color.domain().map(function(name) { return {name: name, y0: y0, y1: y0 += +d[name], amount: d[name], year: d['Year']}; }).sort();
+    d.amounts.forEach(function(d) { d.y0 /= y0; d.y1 /= y0; });
+  });
 
-    x.domain(data.map(function(d) { return d.Year; }));
+  x.domain(data.map(function(d) { return d.Year; }));
 
-      var state = svg.selectAll('.state')
-          .data(data)
-        .enter().append('g')
-          .attr('class', 'state')
-          .attr('transform', function(d) { return 'translate(' + x(d.Year) + ',0)'; });
+  var section = svg.selectAll('.section')
+    .data(data)
+    .enter().append('g')
+    .attr('class', 'section')
+    .attr('transform', function(d) { return 'translate(' + x(d.Year) + ',0)'; });
 
-      state.selectAll('rect')
-          .data(function(d) { return d.amounts; })
-        .enter().append('rect')
-          .attr('width', x.rangeBand())
-          .attr('y', function(d) { return y(d.y1); })
-          .attr('height', function(d) { return y(d.y0) - y(d.y1); })
-          .style('fill', function(d) { return color(d.name); })
-          .on('mouseover', highlight)
-          .on('mouseout', lowlight)
-          ;
+  section.selectAll('rect')
+    .data(function(d) { return d.amounts; })
+    .enter().append('rect')
+    .attr('width', x.rangeBand())
+    .attr('y', function(d) { return y(d.y1); })
+    .attr('height', function(d) { return y(d.y0) - y(d.y1); })
+    .style('fill', function(d) { return color(d.name); })
+    .on('mouseover', highlight)
+    .on('mouseout', lowlight);
 
-          svg.append('g').attr('class', 'x axis').attr('transform', 'translate(0,' + height + ')').call(xAxis);
-          svg.append('g').attr('class', 'y axis') .call(yAxis);
-
+  svg.append('g').attr('class', 'x axis').attr('transform', 'translate(0,' + height + ')').call(xAxis);
+  svg.append('g').attr('class', 'y axis') .call(yAxis);
 });
 
 function formatAmount(amount) {
