@@ -1,0 +1,88 @@
+/* !Fonts */
+
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif);
+
+/* !Layout */
+
+body {
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+#container {
+  width: 940px;
+}
+
+#chart {
+  float: left;
+  padding: 10px;
+}
+
+/* !Sidebar */
+
+#sidebar {
+  float: left;
+  width: 360px;
+  padding: 10px;
+  font-family: 'PT Serif', serif;
+}
+
+#sidebar h1 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  color: #ed1c24;
+}
+
+#sidebar h2 {
+  margin-top: 24px;
+  margin-bottom: 6px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  color: #999;
+}
+
+#sidebar p {
+  margin-top: 0;
+  font-size: 16px;
+}
+
+#sidebar dt {
+  font-family: 'PT Sans', sans-serif;
+  color: #666;
+}
+
+#sidebar dd {
+  margin-left: 0;
+  margin-bottom: 18px;
+  font-size: 24px;
+  line-height: 23px;
+  color: #ed1c24;
+}
+
+/* !Footer */
+
+#footer {
+  clear: both;
+  padding: 0px 10px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 11px;
+  color: #ccc;
+}
+
+#footer a {
+  color: #aaa;
+}
+
+/* !Graph */
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
