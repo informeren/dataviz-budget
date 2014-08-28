@@ -6,11 +6,11 @@
 
 =head1 NAME
 
-budget.pl - Convert CSV files to JSON files for use with D3
+sunburst.pl - Convert CSV files to JSON files for use with D3
 
 =head1 SYNOPSIS
 
-budget.pl -i INPUT_FILE -o OUTPUT_FILE [-l LEVELS] [-e EXCLUDE]
+sunburst.pl -i INPUT_FILE -o OUTPUT_FILE [-l LEVELS] [-e EXCLUDE]
 
 =head1 DESCRIPTION
 
@@ -20,7 +20,7 @@ This script lets you convert a CSV report from http://www.oes-cs.dk/ to a hierar
 
 The following invocation of the command reads the file "2014.csv" and exports the first 3 levels of the hierarchy to "2014.json", ignoring the accounts 42, 420, and 421.
 
-    budget.pl -i 2014.csv -o 2014.json -l 3 -e 42,420,421
+    sunburst.pl -i 2014.csv -o 2014.json -l 3 -e 42,420,421
 
 =over
 
