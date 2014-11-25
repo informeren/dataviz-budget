@@ -40,7 +40,7 @@ Then, add a couple of filters:
 
 1. Click _Vælg filter_ to open the filter popup
 2. Under _Variabel_ select _Finansår_ and then select the year(s) you're interested in from the select list on the right
-3. Under _Variabel_ select _Udgifts-/indtægtsbudget_ and select _Indtægtsbudget, indtægt_ if you're interested in revenues or _Udgiftsbudget, udgift_ if you're interested in exepenses
+3. Under _Variabel_ select _Udgifts-/indtægtsbudget_ and select _Indtægtsbudget, indtægt_ if you're interested in revenue or _Udgiftsbudget, udgift_ if you're interested in expense
 4. Click _OK_ to apply the filters
 
 When you're happy with the structure and filtering of the data you can click the _Download_ button to get a copy of the report in CSV format.
