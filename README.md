@@ -58,6 +58,8 @@ The files in the _expenses_ folder have been created using the following filters
 
 The expense data files named `*-all.csv` omit the _Paragraf_ filter.
 
+For more information on the account numbers, please consult the [chart of accounts](http://www.oes-cs.dk/olapdatabase/finanslov/help32.html) ([help index](http://www.oes-cs.dk/olapdatabase/finanslov/index.cgi?FUNK=HELP&HELPDOK=HELP1)).
+
 
 Notes
 -----
