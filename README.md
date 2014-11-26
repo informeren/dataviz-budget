@@ -1,7 +1,7 @@
 The National Budget
 ===================
 
-This data visualization is the result of a [data sprint](http://www.information.dk/databloggen/480268) held at Dagbladet Information on November 27th, 2013. This code can be used to create your own zoomable sunburst diagrams based on available budget figures.
+This data visualization is the result of a [data sprint](http://www.information.dk/databloggen/480268) held at Dagbladet Information on November 27th, 2013. This code can be used to create your own zoomable sunburst diagrams based on available budget figures. An updated version of the visualization is available on [Databloggen](http://www.information.dk/databloggen/507504).
 
 
 Sunburst
