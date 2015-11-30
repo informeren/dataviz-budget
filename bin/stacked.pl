@@ -60,7 +60,7 @@ if (!$opts{'i'} || !$opts{'o'}) {
 my @files = ();
 opendir INPUT, $opts{'i'} or die "cannot open input directory $opts{'i'}: $!";
 while (my $filename = readdir INPUT) {
-  next unless $filename =~ /\d{4}/;
+  next unless $filename =~ /\d{4}-expenses\.csv/;
   push @files, $filename;
 }
 closedir INPUT;
@@ -120,7 +120,7 @@ foreach my $year (@years) {
   print OUT $year;
   foreach my $id (@ids) {
     my $amount = $result{$id}{$year} ? $result{$id}{$year} : 0;
-    print OUT ',' . int($amount);
+    print OUT ',' . $amount;
   }
   print OUT "\n";
 }
@@ -135,7 +135,7 @@ Morten Wulff, <wulff@ratatosk.net>
 
 =head1 COPYRIGHT
 
-Copyright (c) 2013, Morten Wulff
+Copyright (c) 2013-2015, Morten Wulff
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
