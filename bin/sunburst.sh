@@ -13,3 +13,4 @@
 ./sunburst.pl -i ../data/expenses/2013-expenses.csv -o ../html/data/2013.json -l 3
 ./sunburst.pl -i ../data/expenses/2014-expenses.csv -o ../html/data/2014.json -l 3
 ./sunburst.pl -i ../data/expenses/2015-expenses.csv -o ../html/data/2015.json -l 3
+./sunburst.pl -i ../data/expenses/2016-expenses.csv -o ../html/data/2016.json -l 3
