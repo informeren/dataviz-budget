@@ -43,7 +43,6 @@ d3.csv('./data/stacked.csv', function(error, data) {
     .on('mouseover', highlight)
     .on('mouseout', lowlight);
 
-  // svg.append('g').attr('class', 'x axis').attr('transform', 'translate(0,' + height + ')').call(xAxis);
   svg.append('g').attr('class', 'y axis').call(yAxis);
 });
 
@@ -188,5 +187,35 @@ var names = {
     '22': 'Kirkeministeriet',
     '28': 'Transportministeriet',
     '29': 'Klima-, Energi- og Bygningsministeriet',
+  },
+  '2016': {
+    '14': 'Udlændinge-, Integrations-, og Boligmin.',
+    '15': 'Social- og Indenrigsministeriet',
+    '16': 'Sundheds- og Ældreministeriet',
+    '20': 'Min. for Børn, Undervisning og Ligestilling',
+    '24': 'Miljø- og Fødevareministeriet',
+    '28': 'Transport- og Bygningsministeriet',
+    '29': 'Energi-, Forsynings- og Klimaministeriet',
+  },
+  '2017': {
+    '08': 'Erhvervs- og Vækstministeriet',
+    '14': 'Udlændinge-, Integrations-, og Boligmin.',
+    '15': 'Social- og Indenrigsministeriet',
+    '16': 'Sundheds- og Ældreministeriet',
+    '19': 'Uddannelses- og Forskningsministeriet',
+    '20': 'Min. for Børn, Undervisning og Ligestilling',
+    '24': 'Miljø- og Fødevareministeriet',
+    '28': 'Transport- og Bygningsministeriet',
+    '29': 'Energi-, Forsynings- og Klimaministeriet',
+  },
+  '2018': {
+    '08': 'Erhvervsministeriet',
+    '14': 'Udlændinge- og Integrationsministeriet',
+    '15': 'Børne- og Socialministeriet',
+    '16': 'Sundheds- og Ældreministeriet',
+    '19': 'Uddannelses- og Forskningsministeriet',
+    '24': 'Miljø- og Fødevareministeriet',
+    '28': 'Transport-, Bygnings- og Boligministeriet',
+    '29': 'Energi-, Forsynings- og Klimaministeriet',
   },
 };
