@@ -1,7 +1,7 @@
 /* !Fonts */
 
-@import url(http://fonts.googleapis.com/css?family=PT+Sans);
-@import url(http://fonts.googleapis.com/css?family=PT+Serif);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
 
 /* !Layout */
 
@@ -24,7 +24,7 @@ body {
 #sidebar {
   float: left;
   width: 320px;
-  padding: 10px;
+  padding: 15px 10px 10px;
   font-family: 'PT Serif', serif;
 }
 
