@@ -16,3 +16,8 @@
 ./sunburst.pl -i ../data/expenses/2016-expenses.csv -o ../html/data/2016.json -l 3
 ./sunburst.pl -i ../data/expenses/2017-expenses.csv -o ../html/data/2017.json -l 3
 ./sunburst.pl -i ../data/expenses/2018-expenses.csv -o ../html/data/2018.json -l 3
+./sunburst.pl -i ../data/expenses/2019-expenses.csv -o ../html/data/2019.json -l 3
+./sunburst.pl -i ../data/expenses/2020-expenses.csv -o ../html/data/2020.json -l 3
+./sunburst.pl -i ../data/expenses/2021-expenses.csv -o ../html/data/2021.json -l 3
+./sunburst.pl -i ../data/expenses/2022-expenses.csv -o ../html/data/2022.json -l 3
+./sunburst.pl -i ../data/expenses/2023-expenses.csv -o ../html/data/2023.json -l 3
